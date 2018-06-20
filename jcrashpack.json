@@ -372,7 +372,7 @@
         }, 
         "JFreeChart": {
             "name": "JFreeChart", 
-            "url": "", 
+            "url": "http://www.jfree.org", 
             "versions": {
                 "13b": {
                     "src_url": "", 
@@ -386,7 +386,7 @@
         }, 
         "Joda-Time": {
             "name": "Joda-Time", 
-            "url": "", 
+            "url": "http://www.joda.org/joda-time/", 
             "versions": {
                 "10b": {
                     "src_url": "", 
@@ -424,7 +424,7 @@
         }, 
         "Mockito": {
             "name": "Mockito", 
-            "url": "", 
+            "url": "http://site.mockito.org", 
             "versions": {
                 "10b": {
                     "src_url": "", 
@@ -486,7 +486,7 @@
         }, 
         "XWiki": {
             "name": "XWiki", 
-            "url": "", 
+            "url": "https://www.xwiki.org/", 
             "versions": {
                 "7.2": {
                     "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.2", 
