@@ -1,0 +1,4 @@
+java.lang.NullPointerException
+	at org.apache.commons.math.analysis.solvers.BisectionSolver.solve(BisectionSolver.java:88)
+	at org.apache.commons.math.analysis.solvers.BisectionSolver.solve(BisectionSolver.java:66)
+	at org.apache.commons.math.analysis.solvers.BisectionSolver.solve(BisectionSolver.java:72)

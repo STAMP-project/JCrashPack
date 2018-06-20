@@ -1,0 +1,4 @@
+java.lang.NullPointerException
+	at com.xpn.xwiki.web.DownloadAction.getFileName(DownloadAction.java:314)
+	at com.xpn.xwiki.web.DownloadAction.render(DownloadAction.java:102)
+	at com.xpn.xwiki.web.XWikiAction.execute(XWikiAction.java:417)

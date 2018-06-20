@@ -1,0 +1,9 @@
+java.lang.Exception: null
+        at com.xpn.xwiki.store.XWikiHibernateBaseStore.getXWikiContext(XWikiHibernateBaseStore.java:1498)
+        at com.xpn.xwiki.store.XWikiHibernateBaseStore.cleanUp(XWikiHibernateBaseStore.java:1137)
+        at com.xpn.xwiki.store.XWikiCacheStore.cleanUp(XWikiCacheStore.java:614)
+        at org.xwiki.watchlist.internal.job.WatchListJob.init(WatchListJob.java:100)
+        at org.xwiki.watchlist.internal.job.WatchListJob.executeJob(WatchListJob.java:209)
+        at com.xpn.xwiki.plugin.scheduler.AbstractJob.execute(AbstractJob.java:71)
+        at org.quartz.core.JobRunShell.run(JobRunShell.java:202)
+        at org.quartz.simpl.SimpleThreadPool$WorkerThread.run(SimpleThreadPool.java:573)

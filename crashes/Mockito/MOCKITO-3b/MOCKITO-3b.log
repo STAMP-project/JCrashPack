@@ -1,0 +1,13 @@
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at org.mockito.internal.invocation.InvocationMatcher.captureArgumentsFrom(InvocationMatcher.java:130)
+	at org.mockito.internal.invocation.InvocationMarker.markVerified(InvocationMarker.java:22)
+	at org.mockito.internal.invocation.InvocationMarker.markVerified(InvocationMarker.java:16)
+	at org.mockito.internal.verification.checkers.NumberOfInvocationsChecker.check(NumberOfInvocationsChecker.java:48)
+	at org.mockito.internal.verification.Times.verify(Times.java:39)
+	at org.mockito.internal.verification.MockAwareVerificationMode.verify(MockAwareVerificationMode.java:21)
+	at org.mockito.internal.handler.MockHandlerImpl.handle(MockHandlerImpl.java:76)
+	at org.mockito.internal.handler.NullResultGuardian.handle(NullResultGuardian.java:29)
+	at org.mockito.internal.handler.InvocationNotifierHandler.handle(InvocationNotifierHandler.java:37)
+	at org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.doIntercept(MockMethodInterceptor.java:82)
+	at org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.interceptAbstract(MockMethodInterceptor.java:70)
+

@@ -1,0 +1,10 @@
+java.lang.IllegalArgumentException: unknown setting [cluster.indices.tombstones.size] please check that any required plugins are installed, or check the breaking changes documentation for removed settings
+    at org.elasticsearch.common.settings.AbstractScopedSettings.validate(AbstractScopedSettings.java:293)
+    at org.elasticsearch.common.settings.AbstractScopedSettings.validate(AbstractScopedSettings.java:256)
+    at org.elasticsearch.common.settings.SettingsModule.<init>(SettingsModule.java:139)
+    at org.elasticsearch.node.Node.<init>(Node.java:343)
+    at org.elasticsearch.node.Node.<init>(Node.java:244)
+    at org.elasticsearch.bootstrap.Bootstrap$5.<init>(Bootstrap.java:232)
+    at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:232)
+    at org.elasticsearch.bootstrap.Bootstrap.init(Bootstrap.java:351)
+    at org.elasticsearch.bootstrap.Elasticsearch.init(Elasticsearch.java:123)

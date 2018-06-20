@@ -1,0 +1,10 @@
+java.lang.IllegalArgumentException: Failed to resolve address for [127.0.0.1[9300-9400]]
+    at org.elasticsearch.transport.netty.NettyTransport.parse(NettyTransport.java:668)
+    at org.elasticsearch.transport.netty.NettyTransport.addressesFromString(NettyTransport.java:620)
+    at org.elasticsearch.transport.TransportService.addressesFromString(TransportService.java:398)
+    at org.elasticsearch.discovery.zen.ping.unicast.UnicastZenPing.<init>(UnicastZenPing.java:141)
+    at org.elasticsearch.node.Node.<init>(Node.java:198)
+    at org.elasticsearch.node.NodeBuilder.build(NodeBuilder.java:145)
+    at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:170)
+    at org.elasticsearch.bootstrap.Bootstrap.init(Bootstrap.java:270)
+    at org.elasticsearch.bootstrap.Elasticsearch.main(Elasticsearch.java:35)

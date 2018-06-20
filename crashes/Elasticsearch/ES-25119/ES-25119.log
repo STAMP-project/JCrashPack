@@ -1,0 +1,11 @@
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.hadoop.net.SocketIOWithTimeout.connect(SocketIOWithTimeout.java:206)
+	at org.apache.hadoop.net.NetUtils.connect(NetUtils.java:531)
+	at org.apache.hadoop.net.NetUtils.connect(NetUtils.java:495)
+	at org.apache.hadoop.ipc.Client$Connection.setupConnection(Client.java:609)
+	at org.apache.hadoop.ipc.Client$Connection.setupIOstreams(Client.java:707)
+	at org.apache.hadoop.ipc.Client$Connection.access$2800(Client.java:370)
+	at org.apache.hadoop.ipc.Client.getConnection(Client.java:1529)
+	at org.apache.hadoop.ipc.Client.call(Client.java:1446)

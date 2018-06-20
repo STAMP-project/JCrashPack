@@ -1,0 +1,12 @@
+java.lang.IllegalStateException: unexpected docvalues type NONE for field '_parent' (expected one of [SORTED, SORTED_SET]). Re-index with correct docvalues type.
+    at org.apache.lucene.index.DocValues.checkField(DocValues.java:212)
+    at org.apache.lucene.index.DocValues.getSortedSet(DocValues.java:306)
+    at org.elasticsearch.index.fielddata.plain.SortedSetDVBytesAtomicFieldData.getOrdinalsValues(SortedSetDVBytesAtomicFieldData.java:53)
+    at org.elasticsearch.index.fielddata.ordinals.GlobalOrdinalsBuilder.build(GlobalOrdinalsBuilder.java:63)
+    at org.elasticsearch.index.fielddata.plain.SortedSetDVOrdinalsIndexFieldData.localGlobalDirect(SortedSetDVOrdinalsIndexFieldData.java:127)
+    at org.elasticsearch.index.fielddata.plain.SortedSetDVOrdinalsIndexFieldData.localGlobalDirect(SortedSetDVOrdinalsIndexFieldData.java:45)
+    at org.elasticsearch.indices.fielddata.cache.IndicesFieldDataCache$IndexFieldCache.lambda$load$1(IndicesFieldDataCache.java:157)
+    at org.elasticsearch.common.cache.Cache.computeIfAbsent(Cache.java:401)
+    at org.elasticsearch.indices.fielddata.cache.IndicesFieldDataCache$IndexFieldCache.load(IndicesFieldDataCache.java:154)
+    at org.elasticsearch.index.fielddata.plain.SortedSetDVOrdinalsIndexFieldData.loadGlobal(SortedSetDVOrdinalsIndexFieldData.java:115)
+    

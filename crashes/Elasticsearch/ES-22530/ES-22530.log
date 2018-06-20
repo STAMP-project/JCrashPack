@@ -1,0 +1,13 @@
+java.lang.IllegalArgumentException: numHits must be > 0; please use TotalHitCountCollector if you just need the total hit count
+	at org.apache.lucene.search.TopScoreDocCollector.create(TopScoreDocCollector.java:170)
+	at org.elasticsearch.search.query.QueryPhase.execute(QueryPhase.java:219)
+	at org.elasticsearch.search.query.QueryPhase.execute(QueryPhase.java:106)
+	at org.elasticsearch.search.SearchService.loadOrExecuteQueryPhase(SearchService.java:259)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:273)
+	at org.elasticsearch.action.search.SearchTransportService$6.messageReceived(SearchTransportService.java:300)
+	at org.elasticsearch.action.search.SearchTransportService$6.messageReceived(SearchTransportService.java:297)
+	at org.elasticsearch.transport.RequestHandlerRegistry.processMessageReceived(RequestHandlerRegistry.java:69)
+	at org.elasticsearch.transport.TransportService$6.doRun(TransportService.java:577)
+	at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:527)
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37)
+	

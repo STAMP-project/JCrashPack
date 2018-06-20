@@ -1,0 +1,4 @@
+org.apache.commons.math.MathRuntimeException$4: les valeurs de la fonction aux bornes n'ont pas des signes différents. Bornes : [89,999, 153,1], valeurs : [-0,066, -1 142,11]
+	at org.apache.commons.math.MathRuntimeException.createIllegalArgumentException(MathRuntimeException.java:305)
+	at org.apache.commons.math.analysis.solvers.BrentSolver.solve(BrentSolver.java:178)
+	at org.apache.commons.math.ode.events.EventState.evaluateStep(EventState.java:218)

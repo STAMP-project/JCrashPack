@@ -1,0 +1,10 @@
+java.lang.IllegalArgumentException: invalid IP address [*] for [_ip]
+	at org.elasticsearch.cluster.node.DiscoveryNodeFilters.lambda$static$0(DiscoveryNodeFilters.java:58)
+	at org.elasticsearch.common.settings.Setting$3.get(Setting.java:908)
+	at org.elasticsearch.common.settings.Setting$3.get(Setting.java:885)
+	at org.elasticsearch.cluster.metadata.IndexMetaData$Builder.build(IndexMetaData.java:1026)
+	at org.elasticsearch.cluster.metadata.IndexMetaData$Builder.fromXContent(IndexMetaData.java:1240)
+	at org.elasticsearch.cluster.metadata.IndexMetaData$1.fromXContent(IndexMetaData.java:1302)
+	at org.elasticsearch.cluster.metadata.IndexMetaData$1.fromXContent(IndexMetaData.java:1293)
+	at org.elasticsearch.gateway.MetaDataStateFormat.read(MetaDataStateFormat.java:202)
+	at org.elasticsearch.gateway.MetaDataStateFormat.loadLatestState(MetaDataStateFormat.java:322)

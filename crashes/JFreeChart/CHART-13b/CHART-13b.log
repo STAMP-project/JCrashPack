@@ -1,0 +1,7 @@
+java.lang.IllegalArgumentException: Range(double, double): require lower (0.0) <= upper (-2.3000000000000007).
+	at org.jfree.data.Range.<init>(Range.java:87)
+	at org.jfree.chart.block.BorderArrangement.arrangeFF(BorderArrangement.java:454)
+	at org.jfree.chart.block.BorderArrangement.arrange(BorderArrangement.java:152)
+	at org.jfree.chart.block.BorderArrangement.arrangeFN(BorderArrangement.java:323)
+	at org.jfree.chart.block.BorderArrangement.arrange(BorderArrangement.java:149)
+	at org.jfree.chart.block.BlockContainer.arrange(BlockContainer.java:182)

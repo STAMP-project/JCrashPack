@@ -1,0 +1,7 @@
+java.lang.NullPointerException
+	at org.jfree.chart.plot.XYPlot.getDataRange(XYPlot.java:4493)
+	at org.jfree.chart.axis.NumberAxis.autoAdjustRange(NumberAxis.java:434)
+	at org.jfree.chart.axis.NumberAxis.configure(NumberAxis.java:417)
+	at org.jfree.chart.axis.Axis.setPlot(Axis.java:1044)
+	at org.jfree.chart.plot.XYPlot.<init>(XYPlot.java:660)
+	at org.jfree.chart.ChartFactory.createScatterPlot(ChartFactory.java:1490)

@@ -1,0 +1,4 @@
+java.util.ConcurrentModificationException
+	at org.xwiki.extension.job.plan.internal.DefaultExtensionPlan.toString(DefaultExtensionPlan.java:115)
+	org.apache.velocity.runtime.parser.node.ASTReference.evaluate(ASTReference.java:547)
+	

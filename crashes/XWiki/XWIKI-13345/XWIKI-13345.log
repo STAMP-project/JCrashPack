@@ -1,0 +1,6 @@
+java.lang.NullPointerException: null
+	at com.xpn.xwiki.XWiki.getSkinPreference(XWiki.java:2101)
+	at com.xpn.xwiki.api.XWiki.getSkinPreference(XWiki.java:988)
+	at org.apache.velocity.util.introspection.UberspectImpl$VelMethodImpl.doInvoke(UberspectImpl.java:395)
+	at org.apache.velocity.util.introspection.UberspectImpl$VelMethodImpl.invoke(UberspectImpl.java:384)
+	at org.apache.velocity.runtime.parser.node.ASTMethod.execute(ASTMethod.java:173)

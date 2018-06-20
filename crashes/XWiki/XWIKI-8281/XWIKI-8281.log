@@ -1,0 +1,7 @@
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at com.xpn.xwiki.doc.XWikiDocument.getDocumentSection(XWikiDocument.java:7845)
+	at com.xpn.xwiki.web.EditAction.updateDocumentTitleAndContentFromRequest(EditAction.java:224)
+	at com.xpn.xwiki.web.EditAction.prepareEditedDocument(EditAction.java:95)
+	at com.xpn.xwiki.web.EditAction.render(EditAction.java:58)
+	at com.xpn.xwiki.web.XWikiAction.execute(XWikiAction.java:432)
+	

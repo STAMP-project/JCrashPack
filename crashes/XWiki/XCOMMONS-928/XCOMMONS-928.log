@@ -1,0 +1,18 @@
+java.lang.NullPointerException: null
+    at org.xwiki.extension.repository.internal.installed.DefaultInstalledExtensionRepository.applyInstallExtension(DefaultInstalledExtensionRepository.java:449)
+    at org.xwiki.extension.repository.internal.installed.DefaultInstalledExtensionRepository.installExtension(DefaultInstalledExtensionRepository.java:691)
+    at org.xwiki.extension.job.internal.AbstractExtensionJob.installExtension(AbstractExtensionJob.java:257)
+    at org.xwiki.extension.job.internal.AbstractExtensionJob.applyAction(AbstractExtensionJob.java:204)
+    at org.xwiki.extension.job.internal.AbstractExtensionJob.applyActions(AbstractExtensionJob.java:151)
+    at org.xwiki.extension.job.internal.InstallJob.runInternal(InstallJob.java:150)
+    at org.xwiki.job.AbstractJob.runInContext(AbstractJob.java:205)
+    at org.xwiki.job.AbstractJob.run(AbstractJob.java:188)
+    at org.xwiki.platform.wiki.creationjob.internal.ExtensionInstaller.installExtension(ExtensionInstaller.java:73)
+    at org.xwiki.platform.wiki.creationjob.internal.steps.ProvisionWikiStep.execute(ProvisionWikiStep.java:78)
+    at org.xwiki.platform.wiki.creationjob.internal.WikiCreationJob.runInternal(WikiCreationJob.java:80)
+    at org.xwiki.job.AbstractJob.runInContext(AbstractJob.java:205)
+    at org.xwiki.job.AbstractJob.run(AbstractJob.java:188)
+    at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+    at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+    at java.lang.Thread.run(Unknown Source)
+    

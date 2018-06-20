@@ -1,0 +1,4 @@
+org.apache.commons.math.optimization.OptimizationException: org.apache.commons.math.MaxIterationsExceededException: Nombre maximal ditérations (100) dépassé
+	at org.apache.commons.math.optimization.direct.DirectSearchOptimizer.incrementIterationsCounter(DirectSearchOptimizer.java:320)
+	at org.apache.commons.math.optimization.direct.MultiDirectional.iterateSimplex(MultiDirectional.java:66)
+	at org.apache.commons.math.optimization.direct.DirectSearchOptimizer.optimize(DirectSearchOptimizer.java:307)

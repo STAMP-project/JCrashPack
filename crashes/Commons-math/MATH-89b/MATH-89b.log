@@ -1,0 +1,2 @@
+java.lang.ClassCastException: java.lang.Object cannot be cast to java.lang.Comparable
+	at org.apache.commons.math.stat.Frequency.addValue(Frequency.java:110)

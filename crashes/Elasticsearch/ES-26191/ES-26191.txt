@@ -1,0 +1,21 @@
+[2017-08-14T18:07:21,539][WARN ][o.e.b.ElasticsearchUncaughtExceptionHandler] [] uncaught exception in thread [main]
+org.elasticsearch.bootstrap.StartupException: java.lang.IllegalArgumentException: unknown setting [cluster.indices.tombstones.size] please check that any required plugins are installed, or check the breaking changes documentation for removed settings
+        at org.elasticsearch.bootstrap.Elasticsearch.init(Elasticsearch.java:127) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.bootstrap.Elasticsearch.execute(Elasticsearch.java:114) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.cli.EnvironmentAwareCommand.execute(EnvironmentAwareCommand.java:67) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.cli.Command.mainWithoutErrorHandling(Command.java:122) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.cli.Command.main(Command.java:88) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.bootstrap.Elasticsearch.main(Elasticsearch.java:91) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.bootstrap.Elasticsearch.main(Elasticsearch.java:84) ~[elasticsearch-5.5.1.jar:5.5.1]
+Caused by: java.lang.IllegalArgumentException: unknown setting [cluster.indices.tombstones.size] please check that any required plugins are installed, or check the breaking changes documentation for removed settings
+        at org.elasticsearch.common.settings.AbstractScopedSettings.validate(AbstractScopedSettings.java:293) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.common.settings.AbstractScopedSettings.validate(AbstractScopedSettings.java:256) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.common.settings.SettingsModule.<init>(SettingsModule.java:139) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.node.Node.<init>(Node.java:343) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.node.Node.<init>(Node.java:244) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.bootstrap.Bootstrap$5.<init>(Bootstrap.java:232) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:232) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.bootstrap.Bootstrap.init(Bootstrap.java:351) ~[elasticsearch-5.5.1.jar:5.5.1]
+        at org.elasticsearch.bootstrap.Elasticsearch.init(Elasticsearch.java:123) ~[elasticsearch-5.5.1.jar:5.5.1]
+        ... 6 more
+

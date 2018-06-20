@@ -1,0 +1,5 @@
+org.xwiki.query.jpql.parser.ParserException: [1,92] expecting: ')'
+	at org.xwiki.query.jpql.parser.Parser.parse(Parser.java:1385)
+	at org.xwiki.query.jpql.internal.JPQLParser.parse(JPQLParser.java:46)
+	at org.xwiki.query.xwql.internal.hql.XWQLtoHQLTranslator.translate(XWQLtoHQLTranslator.java:55)
+	at org.xwiki.query.xwql.internal.XWQLQueryExecutor.execute(XWQLQueryExecutor.java:90)

@@ -1,0 +1,5 @@
+java.nio.file.NoSuchFileException: /data/5.6-elastic-20170711/config-node1/ingest-geoip
+    at org.elasticsearch.bootstrap.Elasticsearch.init(Elasticsearch.java:127)
+    at org.elasticsearch.bootstrap.Elasticsearch.execute(Elasticsearch.java:114)
+    at org.elasticsearch.cli.EnvironmentAwareCommand.execute(EnvironmentAwareCommand.java:67)
+    at org.elasticsearch.cli.Command.mainWithoutErrorHandling(Command.java:122)

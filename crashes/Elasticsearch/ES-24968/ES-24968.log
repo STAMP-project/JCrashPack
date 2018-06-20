@@ -1,0 +1,13 @@
+java.lang.NullPointerException: null
+	at org.elasticsearch.action.index.IndexRequest.source(IndexRequest.java:464)
+	at org.elasticsearch.rest.action.document.RestIndexAction.prepareRequest(RestIndexAction.java:75)
+	at org.elasticsearch.rest.BaseRestHandler.handleRequest(BaseRestHandler.java:64)
+	at org.elasticsearch.rest.RestController.dispatchRequest(RestController.java:260)
+	at org.elasticsearch.rest.RestController.dispatchRequest(RestController.java:199)
+	at org.elasticsearch.http.netty4.Netty4HttpServerTransport.dispatchRequest(Netty4HttpServerTransport.java:504)
+	at org.elasticsearch.http.netty4.Netty4HttpRequestHandler.channelRead0(Netty4HttpRequestHandler.java:72)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at org.elasticsearch.http.netty4.pipelining.HttpPipeliningHandler.channelRead(HttpPipeliningHandler.java:63)

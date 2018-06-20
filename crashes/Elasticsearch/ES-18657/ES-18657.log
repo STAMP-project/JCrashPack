@@ -1,0 +1,8 @@
+java.lang.NullPointerException:
+    at org.elasticsearch.search.suggest.context.ContextMapping$ContextQuery.toAutomaton(ContextMapping.java:264)
+    at org.elasticsearch.search.suggest.completion.AnalyzingCompletionLookupProvider$2.getLookup(AnalyzingCompletionLookupProvider.java:279)
+    at org.elasticsearch.search.suggest.completion.Completion090PostingsFormat$CompletionTerms.getLookup(Completion090PostingsFormat.java:264)
+    at org.elasticsearch.search.suggest.completion.CompletionSuggester.innerExecute(CompletionSuggester.java:69)
+    at org.elasticsearch.search.suggest.Suggester.execute(Suggester.java:41)
+    at org.elasticsearch.search.suggest.SuggestPhase.execute(SuggestPhase.java:85)
+    at org.elasticsearch.action.suggest.TransportSuggestAction.shardOperation(TransportSuggestAction.java:147)

@@ -1,0 +1,5 @@
+org.mockito.exceptions.misusing.MissingMethodInvocationException:
+	at org.mockito.exceptions.Reporter.missingMethodInvocation(Reporter.java:77)
+	at org.mockito.internal.MockitoCore.stub(MockitoCore.java:43)
+	at org.mockito.internal.MockitoCore.when(MockitoCore.java:56)
+	at org.mockito.Mockito.when(Mockito.java:994)

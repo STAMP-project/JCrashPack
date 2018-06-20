@@ -1,0 +1,13 @@
+java.lang.IllegalStateException: No match found
+	at java.util.regex.Matcher.group(Matcher.java:536)
+	at org.elasticsearch.monitor.os.OsProbe.getControlGroups(OsProbe.java:216)
+	at org.elasticsearch.monitor.os.OsProbe.getCgroup(OsProbe.java:414)
+	at org.elasticsearch.monitor.os.OsProbe.osStats(OsProbe.java:466)
+	at org.elasticsearch.monitor.os.OsService.<init>(OsService.java:45)
+	at org.elasticsearch.monitor.MonitorService.<init>(MonitorService.java:45)
+	at org.elasticsearch.node.Node.<init>(Node.java:345)
+	at org.elasticsearch.node.Node.<init>(Node.java:232)
+	at org.elasticsearch.bootstrap.Bootstrap$6.<init>(Bootstrap.java:241)
+	at org.elasticsearch.bootstrap.Bootstrap.setup(Bootstrap.java:241)
+	at org.elasticsearch.bootstrap.Bootstrap.init(Bootstrap.java:333)
+	at org.elasticsearch.bootstrap.Elasticsearch.init(Elasticsearch.java:121)

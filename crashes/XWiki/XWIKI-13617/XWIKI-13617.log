@@ -1,0 +1,4 @@
+java.lang.NullPointerException
+	at javax.servlet.ServletRequestWrapper.getParameter(ServletRequestWrapper.java:194)
+	at org.xwiki.container.servlet.filters.internal.SavedRequestRestorerFilter$SavedRequestWrapper.getParameter(SavedRequestRestorerFilter.java:127)
+	at com.xpn.xwiki.web.XWikiServletRequest.getParameter(XWikiServletRequest.java:281)

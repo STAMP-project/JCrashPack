@@ -1,0 +1,7 @@
+java.lang.NullPointerException
+    at org.elasticsearch.rest.action.cat.RestIndicesAction.buildTable(RestIndicesAction.java:345)
+    at org.elasticsearch.rest.action.cat.RestIndicesAction$1$1$1.buildResponse(RestIndicesAction.java:111)
+    at org.elasticsearch.rest.action.support.RestResponseListener.processResponse(RestResponseListener.java:43)
+    at org.elasticsearch.rest.action.support.RestActionListener.onResponse(RestActionListener.java:49)
+    at org.elasticsearch.action.support.ThreadedActionListener$1.doRun(ThreadedActionListener.java:89)
+    at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37)

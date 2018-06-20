@@ -1,0 +1,11 @@
+java.lang.NullPointerException
+	at com.xpn.xwiki.internal.skin.EnvironmentSkin.getOutputSyntaxString(EnvironmentSkin.java:156)
+	at com.xpn.xwiki.internal.skin.AbstractSkin.getOutputSyntax(AbstractSkin.java:140)
+	at org.xwiki.rendering.internal.transformation.XWikiRenderingContext.getTargetSyntax(XWikiRenderingContext.java:131)
+	at com.xpn.xwiki.internal.template.InternalTemplateManager.evaluateContent(InternalTemplateManager.java:716)
+	at com.xpn.xwiki.internal.template.InternalTemplateManager.render(InternalTemplateManager.java:626)
+	at com.xpn.xwiki.internal.template.InternalTemplateManager.renderFromSkin(InternalTemplateManager.java:604)
+	at com.xpn.xwiki.internal.template.InternalTemplateManager.renderFromSkin(InternalTemplateManager.java:570)
+	at com.xpn.xwiki.internal.template.InternalTemplateManager.render(InternalTemplateManager.java:556)
+	at com.xpn.xwiki.internal.template.DefaultTemplateManager.render(DefaultTemplateManager.java:65)
+	at com.xpn.xwiki.XWiki.evaluateTemplate(XWiki.java:1885)

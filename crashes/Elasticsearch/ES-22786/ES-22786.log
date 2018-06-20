@@ -1,0 +1,7 @@
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at org.elasticsearch.common.geo.builders.BasePolygonBuilder.assign(BasePolygonBuilder.java:423)
+	at org.elasticsearch.common.geo.builders.BasePolygonBuilder.compose(BasePolygonBuilder.java:395)
+	at org.elasticsearch.common.geo.builders.BasePolygonBuilder.coordinates(BasePolygonBuilder.java:160)
+	at org.elasticsearch.common.geo.builders.BasePolygonBuilder.buildGeometry(BasePolygonBuilder.java:189)
+	at org.elasticsearch.common.geo.builders.BasePolygonBuilder.build(BasePolygonBuilder.java:165)
+	at org.elasticsearch.index.mapper.geo.GeoShapeFieldMapper.parse(GeoShapeFieldMapper.java:446)

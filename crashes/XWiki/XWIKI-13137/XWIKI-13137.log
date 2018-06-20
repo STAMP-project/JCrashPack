@@ -1,0 +1,6 @@
+java.sql.SQLException: invalid schema name: NOTEXISTING
+    at org.apache.commons.dbcp2.DelegatingStatement.execute(DelegatingStatement.java:291)
+	at org.apache.commons.dbcp2.DelegatingStatement.execute(DelegatingStatement.java:291)
+	at com.xpn.xwiki.store.XWikiHibernateBaseStore$1.execute(XWikiHibernateBaseStore.java:760)
+	at org.hibernate.impl.SessionImpl.doWork(SessionImpl.java:1997)
+

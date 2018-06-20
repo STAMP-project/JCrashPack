@@ -1,0 +1,18 @@
+java.net.UnknownHostException: addr is of illegal length
+	at org.apache.lucene.document.InetAddressPoint.decode(InetAddressPoint.java:184)
+	at org.elasticsearch.search.DocValueFormat$4.format(DocValueFormat.java:298)
+	at org.elasticsearch.search.aggregations.bucket.terms.StringTerms$Bucket.getKeyAsString(StringTerms.java:75)
+	at org.elasticsearch.search.aggregations.bucket.terms.StringTerms$Bucket.getKey(StringTerms.java:64)
+	at org.elasticsearch.search.aggregations.bucket.terms.InternalTerms.doReduce(InternalTerms.java:274)
+	at org.elasticsearch.search.aggregations.InternalAggregation.reduce(InternalAggregation.java:120)
+	at org.elasticsearch.search.aggregations.InternalAggregations.reduce(InternalAggregations.java:77)
+	at org.elasticsearch.action.search.SearchPhaseController.reduceAggs(SearchPhaseController.java:523)
+	at org.elasticsearch.action.search.SearchPhaseController.reducedQueryPhase(SearchPhaseController.java:500)
+	at org.elasticsearch.action.search.SearchPhaseController.reducedQueryPhase(SearchPhaseController.java:417)
+	at org.elasticsearch.action.search.SearchPhaseController$1.reduce(SearchPhaseController.java:736)
+	at org.elasticsearch.action.search.FetchSearchPhase.innerRun(FetchSearchPhase.java:102)
+	at org.elasticsearch.action.search.FetchSearchPhase.access$000(FetchSearchPhase.java:45)
+	at org.elasticsearch.action.search.FetchSearchPhase$1.doRun(FetchSearchPhase.java:87)
+	at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:638)
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37)
+	

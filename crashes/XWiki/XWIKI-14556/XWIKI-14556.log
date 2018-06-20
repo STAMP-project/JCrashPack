@@ -1,0 +1,11 @@
+org.hibernate.QueryParameterException: could not locate named parameter [wiki_scopeNotifFilter_2]
+	at org.hibernate.engine.query.ParameterMetadata.getNamedParameterDescriptor(ParameterMetadata.java:101)
+	at org.hibernate.engine.query.ParameterMetadata.getNamedParameterExpectedType(ParameterMetadata.java:107)
+	at org.hibernate.impl.AbstractQueryImpl.determineType(AbstractQueryImpl.java:460)
+	at org.hibernate.impl.AbstractQueryImpl.setParameter(AbstractQueryImpl.java:430)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor.setNamedParameter(HqlQueryExecutor.java:417)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor.populateParameters(HqlQueryExecutor.java:384)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor.createHibernateQuery(HqlQueryExecutor.java:221)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor$1.doInHibernate(HqlQueryExecutor.java:183)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor$1.doInHibernate(HqlQueryExecutor.java:178)
+	at com.xpn.xwiki.store.XWikiHibernateBaseStore.execute(XWikiHibernateBaseStore.java:1334)

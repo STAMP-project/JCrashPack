@@ -1,0 +1,7 @@
+java.lang.NullPointerException:
+    at org.elasticsearch.index.Index.<init>(Index.java:53)
+    at org.elasticsearch.action.search.ShardSearchFailure.fromXContent(ShardSearchFailure.java:213)
+    at org.elasticsearch.action.search.SearchResponse.fromXContent(SearchResponse.java:297)
+    at org.elasticsearch.client.RestHighLevelClient.parseEntity(RestHighLevelClient.java:505)
+    at org.elasticsearch.client.RestHighLevelClient.lambda$performRequestAndParseEntity$2(RestHighLevelClient.java:361)
+    at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:392)

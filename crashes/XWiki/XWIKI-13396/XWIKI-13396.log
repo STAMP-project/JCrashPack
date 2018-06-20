@@ -1,0 +1,4 @@
+java.io.FileNotFoundException: 
+	at org.apache.commons.fileupload.disk.DiskFileItem.getInputStream(DiskFileItem.java:214)
+	at com.xpn.xwiki.doc.XWikiAttachmentContent.getContentInputStream(XWikiAttachmentContent.java:244)
+	

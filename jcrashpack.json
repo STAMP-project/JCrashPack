@@ -1,0 +1,2604 @@
+{
+    "applications": {
+        "Commons-lang": {
+            "name": "Commons-lang", 
+            "url": "http://commons.apache.org/proper/commons-lang/", 
+            "versions": {
+                "12b": {
+                    "src_url": "", 
+                    "version": "12b"
+                }, 
+                "13b": {
+                    "src_url": "", 
+                    "version": "13b"
+                }, 
+                "16b": {
+                    "src_url": "", 
+                    "version": "16b"
+                }, 
+                "19b": {
+                    "src_url": "", 
+                    "version": "19b"
+                }, 
+                "1b": {
+                    "src_url": "", 
+                    "version": "1b"
+                }, 
+                "20b": {
+                    "src_url": "", 
+                    "version": "20b"
+                }, 
+                "27b": {
+                    "src_url": "", 
+                    "version": "27b"
+                }, 
+                "2b": {
+                    "src_url": "", 
+                    "version": "2b"
+                }, 
+                "33b": {
+                    "src_url": "", 
+                    "version": "33b"
+                }, 
+                "35b": {
+                    "src_url": "", 
+                    "version": "35b"
+                }, 
+                "36b": {
+                    "src_url": "", 
+                    "version": "36b"
+                }, 
+                "37b": {
+                    "src_url": "", 
+                    "version": "37b"
+                }, 
+                "39b": {
+                    "src_url": "", 
+                    "version": "39b"
+                }, 
+                "44b": {
+                    "src_url": "", 
+                    "version": "44b"
+                }, 
+                "45b": {
+                    "src_url": "", 
+                    "version": "45b"
+                }, 
+                "47b": {
+                    "src_url": "", 
+                    "version": "47b"
+                }, 
+                "51b": {
+                    "src_url": "", 
+                    "version": "51b"
+                }, 
+                "54b": {
+                    "src_url": "", 
+                    "version": "54b"
+                }, 
+                "57b": {
+                    "src_url": "", 
+                    "version": "57b"
+                }, 
+                "5b": {
+                    "src_url": "", 
+                    "version": "5b"
+                }, 
+                "6b": {
+                    "src_url": "", 
+                    "version": "6b"
+                }, 
+                "9b": {
+                    "src_url": "", 
+                    "version": "9b"
+                }
+            }
+        }, 
+        "Commons-math": {
+            "name": "Commons-math", 
+            "url": "http://commons.apache.org/proper/commons-math/", 
+            "versions": {
+                "100b": {
+                    "src_url": "", 
+                    "version": "100b"
+                }, 
+                "101b": {
+                    "src_url": "", 
+                    "version": "101b"
+                }, 
+                "103b": {
+                    "src_url": "", 
+                    "version": "103b"
+                }, 
+                "1b": {
+                    "src_url": "", 
+                    "version": "1b"
+                }, 
+                "31b": {
+                    "src_url": "", 
+                    "version": "31b"
+                }, 
+                "32b": {
+                    "src_url": "", 
+                    "version": "32b"
+                }, 
+                "38b": {
+                    "src_url": "", 
+                    "version": "38b"
+                }, 
+                "3b": {
+                    "src_url": "", 
+                    "version": "3b"
+                }, 
+                "40b": {
+                    "src_url": "", 
+                    "version": "40b"
+                }, 
+                "49b": {
+                    "src_url": "", 
+                    "version": "49b"
+                }, 
+                "4b": {
+                    "src_url": "", 
+                    "version": "4b"
+                }, 
+                "51b": {
+                    "src_url": "", 
+                    "version": "51b"
+                }, 
+                "58b": {
+                    "src_url": "", 
+                    "version": "58b"
+                }, 
+                "60b": {
+                    "src_url": "", 
+                    "version": "60b"
+                }, 
+                "61b": {
+                    "src_url": "", 
+                    "version": "61b"
+                }, 
+                "70b": {
+                    "src_url": "", 
+                    "version": "70b"
+                }, 
+                "78b": {
+                    "src_url": "", 
+                    "version": "78b"
+                }, 
+                "79b": {
+                    "src_url": "", 
+                    "version": "79b"
+                }, 
+                "81b": {
+                    "src_url": "", 
+                    "version": "81b"
+                }, 
+                "84b": {
+                    "src_url": "", 
+                    "version": "84b"
+                }, 
+                "85b": {
+                    "src_url": "", 
+                    "version": "85b"
+                }, 
+                "89b": {
+                    "src_url": "", 
+                    "version": "89b"
+                }, 
+                "8b": {
+                    "src_url": "", 
+                    "version": "8b"
+                }, 
+                "90b": {
+                    "src_url": "", 
+                    "version": "90b"
+                }, 
+                "95b": {
+                    "src_url": "", 
+                    "version": "95b"
+                }, 
+                "97b": {
+                    "src_url": "", 
+                    "version": "97b"
+                }, 
+                "98b": {
+                    "src_url": "", 
+                    "version": "98b"
+                }
+            }
+        }, 
+        "Elasticsearch": {
+            "name": "Elasticsearch", 
+            "url": "https://www.elastic.co/products/elasticsearch", 
+            "versions": {
+                "1.4.5": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v1.4.5", 
+                    "version": "1.4.5"
+                }, 
+                "2.0.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v2.0.0", 
+                    "version": "2.0.0"
+                }, 
+                "2.3.2": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v2.3.2", 
+                    "version": "2.3.2"
+                }, 
+                "2.3.3": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v2.3.3", 
+                    "version": "2.3.3"
+                }, 
+                "2.3.4": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v2.3.4", 
+                    "version": "2.3.4"
+                }, 
+                "2.3.5": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v2.3.5", 
+                    "version": "2.3.5"
+                }, 
+                "2.4.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v2.4.0", 
+                    "version": "2.4.0"
+                }, 
+                "2.4.1": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v2.4.1", 
+                    "version": "2.4.1"
+                }, 
+                "2.4.4": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v2.4.4", 
+                    "version": "2.4.4"
+                }, 
+                "2.4.6": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v2.4.6", 
+                    "version": "2.4.6"
+                }, 
+                "5.0.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.0.0", 
+                    "version": "5.0.0"
+                }, 
+                "5.0.0-alpha2": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.0.0-alpha2", 
+                    "version": "5.0.0-alpha2"
+                }, 
+                "5.0.0-alpha3": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.0.0-alpha3", 
+                    "version": "5.0.0-alpha3"
+                }, 
+                "5.0.0-alpha4": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.0.0-alpha4", 
+                    "version": "5.0.0-alpha4"
+                }, 
+                "5.0.1": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.0.1", 
+                    "version": "5.0.1"
+                }, 
+                "5.0.2": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.0.2", 
+                    "version": "5.0.2"
+                }, 
+                "5.1.1": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.1.1", 
+                    "version": "5.1.1"
+                }, 
+                "5.1.2": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.1.2", 
+                    "version": "5.1.2"
+                }, 
+                "5.2.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.2.0", 
+                    "version": "5.2.0"
+                }, 
+                "5.2.1": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.2.1", 
+                    "version": "5.2.1"
+                }, 
+                "5.2.2": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.2.2", 
+                    "version": "5.2.2"
+                }, 
+                "5.3.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.3.0", 
+                    "version": "5.3.0"
+                }, 
+                "5.3.1": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.3.1", 
+                    "version": "5.3.1"
+                }, 
+                "5.3.2": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.3.2", 
+                    "version": "5.3.2"
+                }, 
+                "5.4.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.4.0", 
+                    "version": "5.4.0"
+                }, 
+                "5.4.1": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.4.1", 
+                    "version": "5.4.1"
+                }, 
+                "5.5.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.5.0", 
+                    "version": "5.5.0"
+                }, 
+                "5.5.1": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.5.1", 
+                    "version": "5.5.1"
+                }, 
+                "5.5.2": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.5.2", 
+                    "version": "5.5.2"
+                }, 
+                "5.5.3": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.5.3", 
+                    "version": "5.5.3"
+                }, 
+                "5.6.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.6.0", 
+                    "version": "5.6.0"
+                }, 
+                "5.6.2": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.6.2", 
+                    "version": "5.6.2"
+                }, 
+                "5.6.3": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.6.3", 
+                    "version": "5.6.3"
+                }, 
+                "5.6.6": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.6.6", 
+                    "version": "5.6.6"
+                }, 
+                "5.6.7": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v5.6.7", 
+                    "version": "5.6.7"
+                }, 
+                "6.0.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v6.0.0", 
+                    "version": "6.0.0"
+                }, 
+                "6.0.1": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v6.0.1", 
+                    "version": "6.0.1"
+                }, 
+                "6.1.0": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v6.1.0", 
+                    "version": "6.1.0"
+                }, 
+                "6.1.2": {
+                    "src_url": "https://github.com/elastic/elasticsearch/releases/tag/v6.1.2", 
+                    "version": "6.1.2"
+                }
+            }
+        }, 
+        "JFreeChart": {
+            "name": "JFreeChart", 
+            "url": "", 
+            "versions": {
+                "13b": {
+                    "src_url": "", 
+                    "version": "13b"
+                }, 
+                "4b": {
+                    "src_url": "", 
+                    "version": "4b"
+                }
+            }
+        }, 
+        "Joda-Time": {
+            "name": "Joda-Time", 
+            "url": "", 
+            "versions": {
+                "10b": {
+                    "src_url": "", 
+                    "version": "10b"
+                }, 
+                "14b": {
+                    "src_url": "", 
+                    "version": "14b"
+                }, 
+                "18b": {
+                    "src_url": "", 
+                    "version": "18b"
+                }, 
+                "20b": {
+                    "src_url": "", 
+                    "version": "20b"
+                }, 
+                "2b": {
+                    "src_url": "", 
+                    "version": "2b"
+                }, 
+                "5b": {
+                    "src_url": "", 
+                    "version": "5b"
+                }, 
+                "7b": {
+                    "src_url": "", 
+                    "version": "7b"
+                }, 
+                "8b": {
+                    "src_url": "", 
+                    "version": "8b"
+                }
+            }
+        }, 
+        "Mockito": {
+            "name": "Mockito", 
+            "url": "", 
+            "versions": {
+                "10b": {
+                    "src_url": "", 
+                    "version": "10b"
+                }, 
+                "12b": {
+                    "src_url": "", 
+                    "version": "12b"
+                }, 
+                "16b": {
+                    "src_url": "", 
+                    "version": "16b"
+                }, 
+                "17b": {
+                    "src_url": "", 
+                    "version": "17b"
+                }, 
+                "1b": {
+                    "src_url": "", 
+                    "version": "1b"
+                }, 
+                "21b": {
+                    "src_url": "", 
+                    "version": "21b"
+                }, 
+                "23b": {
+                    "src_url": "", 
+                    "version": "23b"
+                }, 
+                "34b": {
+                    "src_url": "", 
+                    "version": "34b"
+                }, 
+                "36b": {
+                    "src_url": "", 
+                    "version": "36b"
+                }, 
+                "38b": {
+                    "src_url": "", 
+                    "version": "38b"
+                }, 
+                "3b": {
+                    "src_url": "", 
+                    "version": "3b"
+                }, 
+                "4b": {
+                    "src_url": "", 
+                    "version": "4b"
+                }, 
+                "7b": {
+                    "src_url": "", 
+                    "version": "7b"
+                }, 
+                "9b": {
+                    "src_url": "", 
+                    "version": "9b"
+                }
+            }
+        }, 
+        "XWiki": {
+            "name": "XWiki", 
+            "url": "", 
+            "versions": {
+                "7.2": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.2", 
+                    "version": "7.2"
+                }, 
+                "7.2-milestone-2": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.2-milestone-2", 
+                    "version": "7.2-milestone-2"
+                }, 
+                "7.2-milestone-3": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-milestone-3", 
+                    "version": "7.2-milestone-3"
+                }, 
+                "7.3": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.3", 
+                    "version": "7.3"
+                }, 
+                "7.3-rc-1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.3-rc-1", 
+                    "version": "7.3-rc-1"
+                }, 
+                "7.4": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.4", 
+                    "version": "7.4"
+                }, 
+                "7.4-milestone-1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.4-milestone-1", 
+                    "version": "7.4-milestone-1"
+                }, 
+                "7.4-milestone-2": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.4-milestone-2", 
+                    "version": "7.4-milestone-2"
+                }, 
+                "7.4.1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.4.1", 
+                    "version": "7.4.1"
+                }, 
+                "7.4.2": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.4.2", 
+                    "version": "7.4.2"
+                }, 
+                "7.4.4": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-7.4.4", 
+                    "version": "7.4.4"
+                }, 
+                "8.0": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-8.0", 
+                    "version": "8.0"
+                }, 
+                "8.0-milestone-2": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-8.0-milestone-2", 
+                    "version": "8.0-milestone-2"
+                }, 
+                "8.1-milestone-1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-8.1-milestone-1", 
+                    "version": "8.1-milestone-1"
+                }, 
+                "8.1-rc-1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-8.1-rc-1", 
+                    "version": "8.1-rc-1"
+                }, 
+                "8.2": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-8.2", 
+                    "version": "8.2"
+                }, 
+                "8.2.1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-8.2.1", 
+                    "version": "8.2.1"
+                }, 
+                "8.4": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-8.4", 
+                    "version": "8.4"
+                }, 
+                "8.4.4": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-8.4.4", 
+                    "version": "8.4.4"
+                }, 
+                "9.2-rc-1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-9.2-rc-1", 
+                    "version": "9.2-rc-1"
+                }, 
+                "9.3": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-9.3", 
+                    "version": "9.3"
+                }, 
+                "9.3-rc-1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-9.3-rc-1", 
+                    "version": "9.3-rc-1"
+                }, 
+                "9.3.1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-9.3.1", 
+                    "version": "9.3.1"
+                }, 
+                "9.4-rc-1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-9.4-rc-1", 
+                    "version": "9.4-rc-1"
+                }, 
+                "9.5": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-9.5", 
+                    "version": "9.5"
+                }, 
+                "9.6": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-9.6", 
+                    "version": "9.6"
+                }, 
+                "9.6-rc-1": {
+                    "src_url": "https://github.com/xwiki/xwiki-platform/releases/tag/xwiki-platform-9.6-rc-1", 
+                    "version": "9.6-rc-1"
+                }
+            }
+        }
+    }, 
+    "crashes": {
+        "CHART-13b": {
+            "application": "JFreeChart", 
+            "buggy_frame": "6", 
+            "fixed_commit": "", 
+            "id": "CHART-13b", 
+            "issue": "", 
+            "target_frames": ".*chart.*", 
+            "version": "13b", 
+            "version_fixed": "13f"
+        }, 
+        "CHART-4b": {
+            "application": "JFreeChart", 
+            "buggy_frame": "6", 
+            "fixed_commit": "", 
+            "id": "CHART-4b", 
+            "issue": "", 
+            "target_frames": ".*chart.*", 
+            "version": "4b", 
+            "version_fixed": "4f"
+        }, 
+        "ES-14457": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-14457", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/14457", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.0.0", 
+            "version_fixed": ""
+        }, 
+        "ES-18109": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-18109", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/18109", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.0-alpha2", 
+            "version_fixed": ""
+        }, 
+        "ES-18657": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-18657", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/18657", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.3.2", 
+            "version_fixed": ""
+        }, 
+        "ES-19026": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-19026", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/19026", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.0-alpha3", 
+            "version_fixed": ""
+        }, 
+        "ES-19414": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-19414", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/19414", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.4.6", 
+            "version_fixed": ""
+        }, 
+        "ES-19891": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-19891", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/19891", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.3.3", 
+            "version_fixed": ""
+        }, 
+        "ES-20045": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-20045", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/20045", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.0-alpha4", 
+            "version_fixed": ""
+        }, 
+        "ES-20298": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-20298", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/20298", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.3.4", 
+            "version_fixed": ""
+        }, 
+        "ES-20333": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-20333", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/20333", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.3.5", 
+            "version_fixed": ""
+        }, 
+        "ES-20408": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-20408", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/20408", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.4.0", 
+            "version_fixed": ""
+        }, 
+        "ES-20479": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-20479", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/20479", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.4.0", 
+            "version_fixed": ""
+        }, 
+        "ES-21061": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-21061", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/21061", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.4.1", 
+            "version_fixed": ""
+        }, 
+        "ES-21457": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-21457", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/21457", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.0", 
+            "version_fixed": ""
+        }, 
+        "ES-21500": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-21500", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/21500", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.0", 
+            "version_fixed": ""
+        }, 
+        "ES-21620": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-21620", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/21620", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.1", 
+            "version_fixed": ""
+        }, 
+        "ES-21665": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-21665", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/21665", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.6.7", 
+            "version_fixed": ""
+        }, 
+        "ES-21906": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-21906", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/21906", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.1", 
+            "version_fixed": ""
+        }, 
+        "ES-21911": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-21911", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/21911", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.2", 
+            "version_fixed": ""
+        }, 
+        "ES-21974": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-21974", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/21974", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.1", 
+            "version_fixed": ""
+        }, 
+        "ES-22077": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22077", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22077", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.1.1", 
+            "version_fixed": ""
+        }, 
+        "ES-22119": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22119", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22119", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.1.1", 
+            "version_fixed": ""
+        }, 
+        "ES-22156": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22156", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22156", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.1", 
+            "version_fixed": ""
+        }, 
+        "ES-22347": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22347", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22347", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.1.1", 
+            "version_fixed": ""
+        }, 
+        "ES-22373": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22373", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22373", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.0", 
+            "version_fixed": ""
+        }, 
+        "ES-22500": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22500", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22500", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.1.1", 
+            "version_fixed": ""
+        }, 
+        "ES-22530": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22530", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22530", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.1.1", 
+            "version_fixed": ""
+        }, 
+        "ES-22584": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22584", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22584", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.0", 
+            "version_fixed": ""
+        }, 
+        "ES-22770": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22770", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22770", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.1.2", 
+            "version_fixed": ""
+        }, 
+        "ES-22786": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22786", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22786", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.4.0", 
+            "version_fixed": ""
+        }, 
+        "ES-22881": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22881", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22881", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.1.1", 
+            "version_fixed": ""
+        }, 
+        "ES-22922": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22922", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22922", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.0", 
+            "version_fixed": ""
+        }, 
+        "ES-22997": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-22997", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/22997", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.4.1", 
+            "version_fixed": ""
+        }, 
+        "ES-23099": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23099", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23099", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.0", 
+            "version_fixed": ""
+        }, 
+        "ES-23115": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23115", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23115", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.0", 
+            "version_fixed": ""
+        }, 
+        "ES-23218": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23218", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23218", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.1", 
+            "version_fixed": ""
+        }, 
+        "ES-23280": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23280", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23280", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.1", 
+            "version_fixed": ""
+        }, 
+        "ES-23324": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23324", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23324", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.1.1", 
+            "version_fixed": ""
+        }, 
+        "ES-23381": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23381", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23381", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.1", 
+            "version_fixed": ""
+        }, 
+        "ES-23505": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23505", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23505", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.2", 
+            "version_fixed": ""
+        }, 
+        "ES-23628": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23628", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23628", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.2", 
+            "version_fixed": ""
+        }, 
+        "ES-23675": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23675", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23675", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.1", 
+            "version_fixed": ""
+        }, 
+        "ES-23919": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-23919", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/23919", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.2.1", 
+            "version_fixed": ""
+        }, 
+        "ES-24047": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-24047", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/24047", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.3.0", 
+            "version_fixed": ""
+        }, 
+        "ES-24259": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-24259", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/24259", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.3.1", 
+            "version_fixed": ""
+        }, 
+        "ES-24476": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-24476", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/24476", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.3.2", 
+            "version_fixed": ""
+        }, 
+        "ES-24485": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-24485", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/24485", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.0.2", 
+            "version_fixed": ""
+        }, 
+        "ES-24674": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-24674", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/24674", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.3.0", 
+            "version_fixed": ""
+        }, 
+        "ES-24749": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-24749", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/24749", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.4.1", 
+            "version_fixed": ""
+        }, 
+        "ES-24928": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-24928", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/24928", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.4.0", 
+            "version_fixed": ""
+        }, 
+        "ES-24968": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-24968", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/24968", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.4.0", 
+            "version_fixed": ""
+        }, 
+        "ES-25119": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-25119", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/25119", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.4.4", 
+            "version_fixed": ""
+        }, 
+        "ES-25359": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-25359", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/25359", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.4.1", 
+            "version_fixed": ""
+        }, 
+        "ES-25666": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-25666", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/25666", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.6.0", 
+            "version_fixed": ""
+        }, 
+        "ES-25775": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-25775", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/25775", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "2.4.1", 
+            "version_fixed": ""
+        }, 
+        "ES-25849": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-25849", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/25849", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.0", 
+            "version_fixed": ""
+        }, 
+        "ES-25878": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-25878", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/25878", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.0", 
+            "version_fixed": ""
+        }, 
+        "ES-25905": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-25905", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/25905", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.0", 
+            "version_fixed": ""
+        }, 
+        "ES-25920": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-25920", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/25920", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.1", 
+            "version_fixed": ""
+        }, 
+        "ES-25933": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-25933", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/25933", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.4.1", 
+            "version_fixed": ""
+        }, 
+        "ES-26162": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-26162", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/26162", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.0", 
+            "version_fixed": ""
+        }, 
+        "ES-26184": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-26184", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/26184", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.1", 
+            "version_fixed": ""
+        }, 
+        "ES-26191": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-26191", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/26191", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.1", 
+            "version_fixed": ""
+        }, 
+        "ES-26429": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-26429", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/26429", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "6.0.1", 
+            "version_fixed": ""
+        }, 
+        "ES-26513": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-26513", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/26513", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.2", 
+            "version_fixed": ""
+        }, 
+        "ES-26651": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-26651", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/26651", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.3", 
+            "version_fixed": ""
+        }, 
+        "ES-26833": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-26833", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/26833", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.6.2", 
+            "version_fixed": ""
+        }, 
+        "ES-26865": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-26865", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/26865", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.6.2", 
+            "version_fixed": ""
+        }, 
+        "ES-26868": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-26868", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/26868", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.6.2", 
+            "version_fixed": ""
+        }, 
+        "ES-27046": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-27046", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/27046", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.5.2", 
+            "version_fixed": ""
+        }, 
+        "ES-27055": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-27055", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/27055", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.6.3", 
+            "version_fixed": ""
+        }, 
+        "ES-27131": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-27131", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/27131", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "6.1.0", 
+            "version_fixed": ""
+        }, 
+        "ES-27244": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-27244", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/27244", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.3.0", 
+            "version_fixed": ""
+        }, 
+        "ES-27788": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-27788", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/27788", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "6.0.0", 
+            "version_fixed": ""
+        }, 
+        "ES-28141": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-28141", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/28141", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "5.6.6", 
+            "version_fixed": ""
+        }, 
+        "ES-28380": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-28380", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/28380", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "6.1.2", 
+            "version_fixed": ""
+        }, 
+        "ES-9379": {
+            "application": "Elasticsearch", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "ES-9379", 
+            "issue": "https://github.com/elastic/elasticsearch/issues/9379", 
+            "target_frames": ".*elasticsearch.*", 
+            "version": "1.4.5", 
+            "version_fixed": ""
+        }, 
+        "LANG-12b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "LANG-12b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "12b", 
+            "version_fixed": "12f"
+        }, 
+        "LANG-13b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "13", 
+            "fixed_commit": "", 
+            "id": "LANG-13b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "13b", 
+            "version_fixed": "13f"
+        }, 
+        "LANG-16b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "LANG-16b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "16b", 
+            "version_fixed": "16f"
+        }, 
+        "LANG-19b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "4", 
+            "fixed_commit": "", 
+            "id": "LANG-19b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "19b", 
+            "version_fixed": "19f"
+        }, 
+        "LANG-1b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "6", 
+            "fixed_commit": "", 
+            "id": "LANG-1b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "1b", 
+            "version_fixed": "1f"
+        }, 
+        "LANG-20b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "LANG-20b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "20b", 
+            "version_fixed": "20f"
+        }, 
+        "LANG-27b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "LANG-27b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "27b", 
+            "version_fixed": "27f"
+        }, 
+        "LANG-2b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "LANG-2b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "2b", 
+            "version_fixed": "2f"
+        }, 
+        "LANG-33b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "LANG-33b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "33b", 
+            "version_fixed": "33f"
+        }, 
+        "LANG-35b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "LANG-35b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "35b", 
+            "version_fixed": "35f"
+        }, 
+        "LANG-36b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "LANG-36b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "36b", 
+            "version_fixed": "36f"
+        }, 
+        "LANG-37b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "LANG-37b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "37b", 
+            "version_fixed": "37f"
+        }, 
+        "LANG-39b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "LANG-39b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "39b", 
+            "version_fixed": "39f"
+        }, 
+        "LANG-44b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "LANG-44b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "44b", 
+            "version_fixed": "44f"
+        }, 
+        "LANG-45b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "LANG-45b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "45b", 
+            "version_fixed": "45f"
+        }, 
+        "LANG-47b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "LANG-47b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "47b", 
+            "version_fixed": "47f"
+        }, 
+        "LANG-51b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "LANG-51b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "51b", 
+            "version_fixed": "51f"
+        }, 
+        "LANG-54b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "LANG-54b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "54b", 
+            "version_fixed": "54f"
+        }, 
+        "LANG-57b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "LANG-57b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "57b", 
+            "version_fixed": "57f"
+        }, 
+        "LANG-5b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "LANG-5b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "5b", 
+            "version_fixed": "5f"
+        }, 
+        "LANG-6b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "5", 
+            "fixed_commit": "", 
+            "id": "LANG-6b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "6b", 
+            "version_fixed": "6f"
+        }, 
+        "LANG-9b": {
+            "application": "Commons-lang", 
+            "buggy_frame": "10", 
+            "fixed_commit": "", 
+            "id": "LANG-9b", 
+            "issue": "", 
+            "target_frames": ".*lang(3)?.*", 
+            "version": "9b", 
+            "version_fixed": "9f"
+        }, 
+        "MATH-100b": {
+            "application": "Commons-math", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MATH-100b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "100b", 
+            "version_fixed": "100f"
+        }, 
+        "MATH-101b": {
+            "application": "Commons-math", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "MATH-101b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "101b", 
+            "version_fixed": "101f"
+        }, 
+        "MATH-103b": {
+            "application": "Commons-math", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "MATH-103b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "103b", 
+            "version_fixed": "103f"
+        }, 
+        "MATH-1b": {
+            "application": "Commons-math", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "MATH-1b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "1b", 
+            "version_fixed": "1f"
+        }, 
+        "MATH-31b": {
+            "application": "Commons-math", 
+            "buggy_frame": "8", 
+            "fixed_commit": "", 
+            "id": "MATH-31b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "31b", 
+            "version_fixed": "31f"
+        }, 
+        "MATH-32b": {
+            "application": "Commons-math", 
+            "buggy_frame": "10", 
+            "fixed_commit": "", 
+            "id": "MATH-32b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "32b", 
+            "version_fixed": "32f"
+        }, 
+        "MATH-38b": {
+            "application": "Commons-math", 
+            "buggy_frame": "6", 
+            "fixed_commit": "", 
+            "id": "MATH-38b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "38b", 
+            "version_fixed": "38f"
+        }, 
+        "MATH-3b": {
+            "application": "Commons-math", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MATH-3b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "3b", 
+            "version_fixed": "3f"
+        }, 
+        "MATH-40b": {
+            "application": "Commons-math", 
+            "buggy_frame": "5", 
+            "fixed_commit": "", 
+            "id": "MATH-40b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "40b", 
+            "version_fixed": "40f"
+        }, 
+        "MATH-49b": {
+            "application": "Commons-math", 
+            "buggy_frame": "4", 
+            "fixed_commit": "", 
+            "id": "MATH-49b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "49b", 
+            "version_fixed": "49f"
+        }, 
+        "MATH-4b": {
+            "application": "Commons-math", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "MATH-4b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "4b", 
+            "version_fixed": "4f"
+        }, 
+        "MATH-51b": {
+            "application": "Commons-math", 
+            "buggy_frame": "7", 
+            "fixed_commit": "", 
+            "id": "MATH-51b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "51b", 
+            "version_fixed": "51f"
+        }, 
+        "MATH-58b": {
+            "application": "Commons-math", 
+            "buggy_frame": "12", 
+            "fixed_commit": "", 
+            "id": "MATH-58b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "58b", 
+            "version_fixed": "58f"
+        }, 
+        "MATH-60b": {
+            "application": "Commons-math", 
+            "buggy_frame": "5", 
+            "fixed_commit": "", 
+            "id": "MATH-60b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "60b", 
+            "version_fixed": "60f"
+        }, 
+        "MATH-61b": {
+            "application": "Commons-math", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "MATH-61b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "61b", 
+            "version_fixed": "61f"
+        }, 
+        "MATH-70b": {
+            "application": "Commons-math", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "MATH-70b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "70b", 
+            "version_fixed": "70f"
+        }, 
+        "MATH-78b": {
+            "application": "Commons-math", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "MATH-78b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "78b", 
+            "version_fixed": "78f"
+        }, 
+        "MATH-79b": {
+            "application": "Commons-math", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "MATH-79b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "79b", 
+            "version_fixed": "79f"
+        }, 
+        "MATH-81b": {
+            "application": "Commons-math", 
+            "buggy_frame": "6", 
+            "fixed_commit": "", 
+            "id": "MATH-81b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "81b", 
+            "version_fixed": "81f"
+        }, 
+        "MATH-84b": {
+            "application": "Commons-math", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "MATH-84b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "84b", 
+            "version_fixed": "84f"
+        }, 
+        "MATH-85b": {
+            "application": "Commons-math", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "MATH-85b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "85b", 
+            "version_fixed": "85f"
+        }, 
+        "MATH-89b": {
+            "application": "Commons-math", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MATH-89b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "89b", 
+            "version_fixed": "89f"
+        }, 
+        "MATH-8b": {
+            "application": "Commons-math", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MATH-8b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "8b", 
+            "version_fixed": "8f"
+        }, 
+        "MATH-90b": {
+            "application": "Commons-math", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MATH-90b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "90b", 
+            "version_fixed": "90f"
+        }, 
+        "MATH-95b": {
+            "application": "Commons-math", 
+            "buggy_frame": "4", 
+            "fixed_commit": "", 
+            "id": "MATH-95b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "95b", 
+            "version_fixed": "95f"
+        }, 
+        "MATH-97b": {
+            "application": "Commons-math", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MATH-97b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "97b", 
+            "version_fixed": "97f"
+        }, 
+        "MATH-98b": {
+            "application": "Commons-math", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MATH-98b", 
+            "issue": "", 
+            "target_frames": ".*math(3)?.*", 
+            "version": "98b", 
+            "version_fixed": "98f"
+        }, 
+        "MOCKITO-10b": {
+            "application": "Mockito", 
+            "buggy_frame": "19", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-10b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "10b", 
+            "version_fixed": "10f"
+        }, 
+        "MOCKITO-12b": {
+            "application": "Mockito", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-12b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "12b", 
+            "version_fixed": "12f"
+        }, 
+        "MOCKITO-16b": {
+            "application": "Mockito", 
+            "buggy_frame": "11", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-16b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "16b", 
+            "version_fixed": "16f"
+        }, 
+        "MOCKITO-17b": {
+            "application": "Mockito", 
+            "buggy_frame": "4", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-17b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "17b", 
+            "version_fixed": "17f"
+        }, 
+        "MOCKITO-1b": {
+            "application": "Mockito", 
+            "buggy_frame": "10", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-1b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "1b", 
+            "version_fixed": "1f"
+        }, 
+        "MOCKITO-21b": {
+            "application": "Mockito", 
+            "buggy_frame": "4", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-21b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "21b", 
+            "version_fixed": "21f"
+        }, 
+        "MOCKITO-23b": {
+            "application": "Mockito", 
+            "buggy_frame": "53", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-23b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "23b", 
+            "version_fixed": "23f"
+        }, 
+        "MOCKITO-34b": {
+            "application": "Mockito", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-34b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "34b", 
+            "version_fixed": "34f"
+        }, 
+        "MOCKITO-36b": {
+            "application": "Mockito", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-36b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "36b", 
+            "version_fixed": "36f"
+        }, 
+        "MOCKITO-38b": {
+            "application": "Mockito", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-38b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "38b", 
+            "version_fixed": "38f"
+        }, 
+        "MOCKITO-3b": {
+            "application": "Mockito", 
+            "buggy_frame": "12", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-3b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "3b", 
+            "version_fixed": "3f"
+        }, 
+        "MOCKITO-4b": {
+            "application": "Mockito", 
+            "buggy_frame": "4", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-4b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "4b", 
+            "version_fixed": "4f"
+        }, 
+        "MOCKITO-7b": {
+            "application": "Mockito", 
+            "buggy_frame": "8", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-7b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "7b", 
+            "version_fixed": "7f"
+        }, 
+        "MOCKITO-9b": {
+            "application": "Mockito", 
+            "buggy_frame": "11", 
+            "fixed_commit": "", 
+            "id": "MOCKITO-9b", 
+            "issue": "", 
+            "target_frames": ".*mockito.*", 
+            "version": "9b", 
+            "version_fixed": "9f"
+        }, 
+        "TIME-10b": {
+            "application": "Joda-Time", 
+            "buggy_frame": "5", 
+            "fixed_commit": "", 
+            "id": "TIME-10b", 
+            "issue": "", 
+            "target_frames": ".*time.*", 
+            "version": "10b", 
+            "version_fixed": "10f"
+        }, 
+        "TIME-14b": {
+            "application": "Joda-Time", 
+            "buggy_frame": "5", 
+            "fixed_commit": "", 
+            "id": "TIME-14b", 
+            "issue": "", 
+            "target_frames": ".*time.*", 
+            "version": "14b", 
+            "version_fixed": "14f"
+        }, 
+        "TIME-18b": {
+            "application": "Joda-Time", 
+            "buggy_frame": "7", 
+            "fixed_commit": "", 
+            "id": "TIME-18b", 
+            "issue": "", 
+            "target_frames": ".*time.*", 
+            "version": "18b", 
+            "version_fixed": "18f"
+        }, 
+        "TIME-20b": {
+            "application": "Joda-Time", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "TIME-20b", 
+            "issue": "", 
+            "target_frames": ".*time.*", 
+            "version": "20b", 
+            "version_fixed": "20f"
+        }, 
+        "TIME-2b": {
+            "application": "Joda-Time", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "TIME-2b", 
+            "issue": "", 
+            "target_frames": ".*time.*", 
+            "version": "2b", 
+            "version_fixed": "2f"
+        }, 
+        "TIME-5b": {
+            "application": "Joda-Time", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "TIME-5b", 
+            "issue": "", 
+            "target_frames": ".*time.*", 
+            "version": "5b", 
+            "version_fixed": "5f"
+        }, 
+        "TIME-7b": {
+            "application": "Joda-Time", 
+            "buggy_frame": "6", 
+            "fixed_commit": "", 
+            "id": "TIME-7b", 
+            "issue": "", 
+            "target_frames": ".*time.*", 
+            "version": "7b", 
+            "version_fixed": "7f"
+        }, 
+        "TIME-8b": {
+            "application": "Joda-Time", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "TIME-8b", 
+            "issue": "", 
+            "target_frames": ".*time.*", 
+            "version": "8b", 
+            "version_fixed": "8f"
+        }, 
+        "XCOMMONS-1057": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XCOMMONS-1057", 
+            "issue": "https://jira.xwiki.org/browse/XCOMMONS-1057", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.2.1", 
+            "version_fixed": "8.2.2"
+        }, 
+        "XCOMMONS-928": {
+            "application": "XWiki", 
+            "buggy_frame": "5", 
+            "fixed_commit": "", 
+            "id": "XCOMMONS-928", 
+            "issue": "https://jira.xwiki.org/browse/XCOMMONS-928", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.2", 
+            "version_fixed": "7.4.3"
+        }, 
+        "XRENDERING-418": {
+            "application": "XWiki", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "XRENDERING-418", 
+            "issue": "https://jira.xwiki.org/browse/XRENDERING-418", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.3", 
+            "version_fixed": ""
+        }, 
+        "XRENDERING-422": {
+            "application": "XWiki", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "XRENDERING-422", 
+            "issue": "https://jira.xwiki.org/browse/XRENDERING-422", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.3", 
+            "version_fixed": ""
+        }, 
+        "XRENDERING-481": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XRENDERING-481", 
+            "issue": "https://jira.xwiki.org/browse/XRENDERING-481", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.6", 
+            "version_fixed": "9.7"
+        }, 
+        "XWIKI-12482": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-12482", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-12482", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.2-milestone-3", 
+            "version_fixed": "7.2-rc-1"
+        }, 
+        "XWIKI-12584": {
+            "application": "XWiki", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "XWIKI-12584", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-12584", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.2-milestone-2", 
+            "version_fixed": "7.2"
+        }, 
+        "XWIKI-12667": {
+            "application": "XWiki", 
+            "buggy_frame": "not available on stack trace", 
+            "fixed_commit": "", 
+            "id": "XWIKI-12667", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-12667", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.2", 
+            "version_fixed": "7.3-milestone-1"
+        }, 
+        "XWIKI-12798": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-12798", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-12798", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.3-rc-1", 
+            "version_fixed": "7.3"
+        }, 
+        "XWIKI-12855": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-12855", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-12855", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.3", 
+            "version_fixed": "7.4-milestone-1"
+        }, 
+        "XWIKI-12889": {
+            "application": "XWiki", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "XWIKI-12889", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-12889", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4-milestone-1", 
+            "version_fixed": "7.4-milestone-2"
+        }, 
+        "XWIKI-12896": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-12896", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-12896", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.3", 
+            "version_fixed": "7.4-milestone-2"
+        }, 
+        "XWIKI-12919": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-12919", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-12919", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4-milestone-2", 
+            "version_fixed": "7.4-rc-1"
+        }, 
+        "XWIKI-13031": {
+            "application": "XWiki", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13031", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13031", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4", 
+            "version_fixed": "7.4.1"
+        }, 
+        "XWIKI-13096": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13096", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13096", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.3", 
+            "version_fixed": "7.4.2"
+        }, 
+        "XWIKI-13137": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13137", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13137", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.1", 
+            "version_fixed": ""
+        }, 
+        "XWIKI-13138": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13138", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13138", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.0-milestone-2", 
+            "version_fixed": ""
+        }, 
+        "XWIKI-13141": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13141", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13141", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.2", 
+            "version_fixed": "8.0-rc-1"
+        }, 
+        "XWIKI-13193": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13193", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13193", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.2", 
+            "version_fixed": "7.4.4"
+        }, 
+        "XWIKI-13196": {
+            "application": "XWiki", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13196", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13196", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.2", 
+            "version_fixed": ""
+        }, 
+        "XWIKI-13288": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13288", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13288", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.2", 
+            "version_fixed": "7.4.3"
+        }, 
+        "XWIKI-13303": {
+            "application": "XWiki", 
+            "buggy_frame": "not available on stack trace", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13303", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13303", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.0", 
+            "version_fixed": "8.1-milestone-2"
+        }, 
+        "XWIKI-13316": {
+            "application": "XWiki", 
+            "buggy_frame": "not available on stack trace", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13316", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13316", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.0", 
+            "version_fixed": "8.1-milestone-2"
+        }, 
+        "XWIKI-13345": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13345", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13345", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.1-milestone-1", 
+            "version_fixed": "8.1-milestone-2"
+        }, 
+        "XWIKI-13372": {
+            "application": "XWiki", 
+            "buggy_frame": "2", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13372", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13372", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.2", 
+            "version_fixed": "7.4.6"
+        }, 
+        "XWIKI-13377": {
+            "application": "XWiki", 
+            "buggy_frame": "5", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13377", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13377", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.1-milestone-1", 
+            "version_fixed": "8.1-rc-1"
+        }, 
+        "XWIKI-13396": {
+            "application": "XWiki", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13396", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13396", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.2", 
+            "version_fixed": ""
+        }, 
+        "XWIKI-13407": {
+            "application": "XWiki", 
+            "buggy_frame": "5", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13407", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13407", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.1-rc-1", 
+            "version_fixed": "8.2-milestone-2"
+        }, 
+        "XWIKI-13457": {
+            "application": "XWiki", 
+            "buggy_frame": "7", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13457", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13457", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.0", 
+            "version_fixed": "8.2.2"
+        }, 
+        "XWIKI-13544": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13544", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13544", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.4", 
+            "version_fixed": "7.4.5"
+        }, 
+        "XWIKI-13546": {
+            "application": "XWiki", 
+            "buggy_frame": "10", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13546", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13546", 
+            "target_frames": ".*xwiki.*", 
+            "version": "7.4.2", 
+            "version_fixed": "7.4.5"
+        }, 
+        "XWIKI-13616": {
+            "application": "XWiki", 
+            "buggy_frame": "5", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13616", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13616", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.2", 
+            "version_fixed": "8.2.2"
+        }, 
+        "XWIKI-13617": {
+            "application": "XWiki", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13617", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13617", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.2.1", 
+            "version_fixed": "8.3-milestone-1"
+        }, 
+        "XWIKI-13708": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13708", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13708", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.2.1", 
+            "version_fixed": "8.3-rc-1"
+        }, 
+        "XWIKI-13916": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13916", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13916", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.4", 
+            "version_fixed": "8.4.2"
+        }, 
+        "XWIKI-13942": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-13942", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-13942", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.4", 
+            "version_fixed": "8.4.4"
+        }, 
+        "XWIKI-14122": {
+            "application": "XWiki", 
+            "buggy_frame": "not available on stack trace", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14122", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14122", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.2-rc-1", 
+            "version_fixed": "9.2"
+        }, 
+        "XWIKI-14149": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14149", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14149", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.3-rc-1", 
+            "version_fixed": ""
+        }, 
+        "XWIKI-14152": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14152", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14152", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.4.4", 
+            "version_fixed": "8.4.5"
+        }, 
+        "XWIKI-14227": {
+            "application": "XWiki", 
+            "buggy_frame": "3", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14227", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14227", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.3", 
+            "version_fixed": "9.3.1"
+        }, 
+        "XWIKI-14263": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14263", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14263", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.4", 
+            "version_fixed": "9.4-rc-1"
+        }, 
+        "XWIKI-14302": {
+            "application": "XWiki", 
+            "buggy_frame": "not available on stack trace", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14302", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14302", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.4-rc-1", 
+            "version_fixed": "9.4"
+        }, 
+        "XWIKI-14319": {
+            "application": "XWiki", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14319", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14319", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.4-rc-1", 
+            "version_fixed": ""
+        }, 
+        "XWIKI-14462": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14462", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14462", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.5", 
+            "version_fixed": "9.6-rc-1"
+        }, 
+        "XWIKI-14475": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14475", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14475", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.5", 
+            "version_fixed": "9.5.1"
+        }, 
+        "XWIKI-14554": {
+            "application": "XWiki", 
+            "buggy_frame": "1", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14554", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14554", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.6-rc-1", 
+            "version_fixed": "9.7"
+        }, 
+        "XWIKI-14556": {
+            "application": "XWiki", 
+            "buggy_frame": "not available on stack trace", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14556", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14556", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.5", 
+            "version_fixed": "9.5.2"
+        }, 
+        "XWIKI-14599": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14599", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14599", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.6", 
+            "version_fixed": "9.8-rc-1"
+        }, 
+        "XWIKI-14612": {
+            "application": "XWiki", 
+            "buggy_frame": "unknown", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14612", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14612", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.4", 
+            "version_fixed": "9.7-rc-1"
+        }, 
+        "XWIKI-14626": {
+            "application": "XWiki", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "XWIKI-14626", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-14626", 
+            "target_frames": ".*xwiki.*", 
+            "version": "9.3.1", 
+            "version_fixed": ""
+        }, 
+        "XWIKI-8281": {
+            "application": "XWiki", 
+            "buggy_frame": "", 
+            "fixed_commit": "", 
+            "id": "XWIKI-8281", 
+            "issue": "https://jira.xwiki.org/browse/XWIKI-8281", 
+            "target_frames": ".*xwiki.*", 
+            "version": "8.2", 
+            "version_fixed": ""
+        }
+    }
+}

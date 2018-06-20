@@ -1,0 +1,4 @@
+org.mockito.internal.creation.instance.InstantationException: Unable to create mock instance of 'SomeInnerClass'.
+	at org.mockito.internal.creation.instance.ConstructorInstantiator.paramsException(ConstructorInstantiator.java:33)
+	at org.mockito.internal.creation.instance.ConstructorInstantiator.withOuterClass(ConstructorInstantiator.java:27)
+	at org.mockito.internal.creation.instance.ConstructorInstantiator.newInstance(ConstructorInstantiator.java:17)

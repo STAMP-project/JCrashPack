@@ -1,0 +1,6 @@
+java.lang.IllegalArgumentException: The resolver parameter doesn't contain an Entity Reference of type [SPACE]
+	at org.xwiki.model.internal.reference.ExplicitStringEntityReferenceResolver.getDefaultReference(ExplicitStringEntityReferenceResolver.java:45)
+	at org.xwiki.model.internal.reference.AbstractEntityReferenceResolver.resolveDefaultReference(AbstractEntityReferenceResolver.java:77)
+	at org.xwiki.model.internal.reference.AbstractStringEntityReferenceResolver.getNewReference(AbstractStringEntityReferenceResolver.java:210)
+	at org.xwiki.model.internal.reference.AbstractStringEntityReferenceResolver.resolve(AbstractStringEntityReferenceResolver.java:155)
+	at org.xwiki.model.script.ModelScriptService.resolveSpace(ModelScriptService.java:335)

@@ -1,0 +1,11 @@
+java.lang.UnsupportedOperationException
+	at org.mockito.internal.invocation.InvocationMatcher.captureArgumentsFrom(InvocationMatcher.java:123)
+	at org.mockito.internal.handler.MockHandlerImpl.handle(MockHandlerImpl.java:94)
+	at org.mockito.internal.handler.NullResultGuardian.handle(NullResultGuardian.java:29)
+	at org.mockito.internal.handler.InvocationNotifierHandler.handle(InvocationNotifierHandler.java:37)
+	at org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.doIntercept(MockMethodInterceptor.java:82)
+	at org.mockito.internal.creation.bytebuddy.MockMethodInterceptor.interceptAbstract(MockMethodInterceptor.java:70)
+	at org.mockito.internal.util.reflection.FieldInitializer$ConstructorArgumentResolver$MockitoMock$858169766.resolveTypeInstances(Unknown Source)
+	at org.mockito.internal.util.reflection.FieldInitializer$ParameterizedConstructorInstantiator.instantiate(FieldInitializer.java:256)
+	at org.mockito.internal.util.reflection.FieldInitializer.acquireFieldInstance(FieldInitializer.java:124)
+	at org.mockito.internal.util.reflection.FieldInitializer.initialize(FieldInitializer.java:86)

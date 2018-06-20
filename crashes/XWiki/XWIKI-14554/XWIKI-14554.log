@@ -1,0 +1,4 @@
+java.lang.NullPointerException: null
+	at org.xwiki.notifications.internal.email.AbstractMimeMessageIterator.next(AbstractMimeMessageIterator.java:214)
+	at org.xwiki.mail.internal.thread.PrepareMailRunnable.prepareMail(PrepareMailRunnable.java:122)
+	at org.xwiki.mail.internal.thread.PrepareMailRunnable.run(PrepareMailRunnable.java:78)

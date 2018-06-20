@@ -1,0 +1,4 @@
+java.lang.UnsupportedOperationException: Field is not supported
+	at org.joda.time.PeriodType.setIndexedField(PeriodType.java:690)
+	at org.joda.time.Period.withYears(Period.java:896)
+	at org.joda.time.Period.normalizedStandard(Period.java:1631)

@@ -1,0 +1,10 @@
+org.apache.lucene.queryparser.classic.ParseException: Encountered " <RANGE_GOOP> "2018 "" at line 1, column 15. Was expecting: "TO" ...
+	at org.apache.lucene.queryparser.classic.QueryParser.generateParseException(QueryParser.java:931)
+	at org.apache.lucene.queryparser.classic.QueryParser.jj_consume_token(QueryParser.java:813)
+	at org.apache.lucene.queryparser.classic.QueryParser.Term(QueryParser.java:501)
+	at org.apache.lucene.queryparser.classic.QueryParser.Clause(QueryParser.java:355)
+	at org.apache.lucene.queryparser.classic.QueryParser.Query(QueryParser.java:244)
+	at org.apache.lucene.queryparser.classic.QueryParser.TopLevelQuery(QueryParser.java:215)
+	at org.apache.lucene.queryparser.classic.QueryParserBase.parse(QueryParserBase.java:111)
+	at org.apache.lucene.queryparser.classic.MapperQueryParser.parse(MapperQueryParser.java:824)
+	at org.elasticsearch.index.query.QueryStringQueryBuilder.doToQuery(QueryStringQueryBuilder.java:1036)

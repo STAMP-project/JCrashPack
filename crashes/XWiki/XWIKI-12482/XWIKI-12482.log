@@ -1,0 +1,12 @@
+java.lang.NullPointerException
+	at com.xpn.xwiki.internal.store.hibernate.query.HqlQueryUtils.isSelectExpressionAllowed(HqlQueryUtils.java:223)
+	at com.xpn.xwiki.internal.store.hibernate.query.HqlQueryUtils.isSelectItemAllowed(HqlQueryUtils.java:204)
+	at com.xpn.xwiki.internal.store.hibernate.query.HqlQueryUtils.isSafe(HqlQueryUtils.java:153)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor.isSafeSelect(HqlQueryExecutor.java:112)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor.checkAllowed(HqlQueryExecutor.java:123)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor.execute(HqlQueryExecutor.java:134)
+	at org.xwiki.query.internal.DefaultQueryExecutorManager.execute(DefaultQueryExecutorManager.java:71)
+	at org.xwiki.query.internal.SecureQueryExecutorManager.execute(SecureQueryExecutorManager.java:67)
+	at org.xwiki.query.internal.DefaultQuery.execute(DefaultQuery.java:287)
+	at org.xwiki.query.internal.ScriptQuery.execute(ScriptQuery.java:237)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

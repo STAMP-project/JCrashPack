@@ -1,0 +1,16 @@
+java.lang.IllegalArgumentException: painless does not know how to handle context                                                       
+        at org.elasticsearch.script.expression.ExpressionScriptEngine.compile(ExpressionScriptEngine.java:111)                                                                                                                                                                  at org.elasticsearch.script.ScriptService.compile(ScriptService.java:296) ~[elasticsearch-7.0.0-alpha1-SNAPSHOT.jar:7.0.0-alpha1-SNAPSHOT]                                                                                                                                        at org.elasticsearch.index.query.ScriptQueryBuilder.doToQuery(ScriptQueryBuilder.java:130) ~[elasticsearch-7.0.0-alpha1-SNAPSHOT.jar:7.0.0-alpha1-SNAPSHOT]                                             
+        at org.elasticsearch.index.query.AbstractQueryBuilder.toQuery(AbstractQueryBuilder.java:97)             
+        at org.elasticsearch.index.query.BoolQueryBuilder.addBooleanClauses(BoolQueryBuilder.java:405)
+        at org.elasticsearch.index.query.BoolQueryBuilder.doToQuery(BoolQueryBuilder.java:379)
+        at org.elasticsearch.index.query.AbstractQueryBuilder.toQuery(AbstractQueryBuilder.java:97)
+        at org.elasticsearch.index.query.AbstractQueryBuilder.toFilter(AbstractQueryBuilder.java:119)
+        at org.elasticsearch.index.query.ConstantScoreQueryBuilder.doToQuery(ConstantScoreQueryBuilder.java:136)
+        at org.elasticsearch.index.query.AbstractQueryBuilder.toQuery(AbstractQueryBuilder.java:97)
+        at org.elasticsearch.index.query.functionscore.FunctionScoreQueryBuilder.doToQuery(FunctionScoreQueryBuilder.java:307)
+        at org.elasticsearch.index.query.AbstractQueryBuilder.toQuery(AbstractQueryBuilder.java:97)
+        at org.elasticsearch.index.query.QueryShardContext.lambda$toQuery$2(QueryShardContext.java:304)
+        at org.elasticsearch.index.query.QueryShardContext.toQuery(QueryShardContext.java:316)
+        at org.elasticsearch.index.query.QueryShardContext.toQuery(QueryShardContext.java:303)
+        at org.elasticsearch.search.SearchService.parseSource(SearchService.java:669)
+        

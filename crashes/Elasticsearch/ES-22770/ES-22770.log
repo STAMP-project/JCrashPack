@@ -1,0 +1,11 @@
+java.lang.NullPointerException:
+	at org.elasticsearch.search.fetch.subphase.ParentFieldSubFetchPhase.getParentId(ParentFieldSubFetchPhase.java:66)
+	at org.elasticsearch.search.fetch.subphase.ParentFieldSubFetchPhase.hitExecute(ParentFieldSubFetchPhase.java:49)
+	at org.elasticsearch.search.fetch.FetchPhase.execute(FetchPhase.java:163)
+	at org.elasticsearch.search.SearchService.executeFetchPhase(SearchService.java:502)
+	at org.elasticsearch.action.search.SearchTransportService$13.messageReceived(SearchTransportService.java:356)
+	at org.elasticsearch.action.search.SearchTransportService$13.messageReceived(SearchTransportService.java:353)
+	at org.elasticsearch.transport.RequestHandlerRegistry.processMessageReceived(RequestHandlerRegistry.java:69)
+	at org.elasticsearch.transport.TcpTransport$RequestHandler.doRun(TcpTransport.java:1385)
+	at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:527)
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37)

@@ -1,0 +1,9 @@
+java.lang.StringIndexOutOfBoundsException: String index out of range: -8
+	at java.lang.String.substring(String.java:1967)
+	at org.xwiki.query.internal.AbstractQueryFilter.getSelectColumns(AbstractQueryFilter.java:80)
+	at org.xwiki.query.internal.CountDocumentFilter.isFilterable(CountDocumentFilter.java:60)
+	at org.xwiki.query.internal.CountDocumentFilter.filterStatement(CountDocumentFilter.java:70)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor.createHibernateQuery(HqlQueryExecutor.java:230)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor$1.doInHibernate(HqlQueryExecutor.java:171)
+	at com.xpn.xwiki.store.hibernate.query.HqlQueryExecutor$1.doInHibernate(HqlQueryExecutor.java:166)
+	at com.xpn.xwiki.store.XWikiHibernateBaseStore.execute(XWikiHibernateBaseStore.java:1327)

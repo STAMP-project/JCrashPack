@@ -1,0 +1,3 @@
+java.io.NotSerializableException: org.mockitousage.IMethods$$EnhancerByMockitoWithCGLIB$$1e1d300d
+	at org.mockitoutil.TestBase.serializeMock(TestBase.java:160)
+	at org.mockitoutil.TestBase.serializeAndBack(TestBase.java:146)

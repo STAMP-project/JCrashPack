@@ -1,0 +1,5 @@
+java.lang.IllegalArgumentException: Invalid endpoint parameters:  lowerBound=0.0 initial=-1.0 upperBound=1.7976931348623157E308
+	at org.apache.commons.math.analysis.UnivariateRealSolverUtils.bracket(UnivariateRealSolverUtils.java:179)
+	at org.apache.commons.math.analysis.UnivariateRealSolverUtils.bracket(UnivariateRealSolverUtils.java:128)
+	at org.apache.commons.math.distribution.AbstractContinuousDistribution.inverseCumulativeProbability(AbstractContinuousDistribution.java:84)
+	at org.apache.commons.math.distribution.FDistributionImpl.inverseCumulativeProbability(FDistributionImpl.java:106)

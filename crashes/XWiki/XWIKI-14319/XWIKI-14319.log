@@ -1,0 +1,5 @@
+java.lang.NullPointerException: null
+	at com.xpn.xwiki.doc.XWikiDocument.getTranslationList(XWikiDocument.java:5983)
+	at com.xpn.xwiki.api.Document.getTranslationList(Document.java:660)
+
+	

@@ -1,0 +1,5 @@
+java.lang.NullPointerException: null
+	at org.xwiki.rendering.internal.parser.DefaultContentParser.parse(DefaultContentParser.java:62)
+	at org.xwiki.rendering.internal.parser.DefaultContentParser.parse(DefaultContentParser.java:69)
+	at org.xwiki.component.wiki.internal.bridge.DefaultContentParser.parse(DefaultContentParser.java:59)
+	at org.xwiki.panels.internal.PanelWikiUIExtensionComponentBuilder.buildComponents(PanelWikiUIExtensionComponentBuilder.java:124)

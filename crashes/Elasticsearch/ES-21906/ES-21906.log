@@ -1,0 +1,9 @@
+java.lang.NullPointerException:
+    at org.elasticsearch.action.termvectors.TransportTermVectorsAction.shardOperation(TransportTermVectorsAction.java:79)
+    at org.elasticsearch.action.support.single.shard.TransportSingleShardAction$ShardTransportHandler.messageReceived(TransportSingleShardAction.java:293)
+    at org.elasticsearch.action.support.single.shard.TransportSingleShardAction$ShardTransportHandler.messageReceived(TransportSingleShardAction.java:286)
+    at org.elasticsearch.transport.TransportRequestHandler.messageReceived(TransportRequestHandler.java:33)
+    at org.elasticsearch.transport.RequestHandlerRegistry.processMessageReceived(RequestHandlerRegistry.java:69)
+    at org.elasticsearch.transport.TransportService$6.doRun(TransportService.java:548)
+    at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:520)
+    at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37)

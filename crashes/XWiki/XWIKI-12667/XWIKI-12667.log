@@ -1,0 +1,12 @@
+java.lang.IllegalArgumentException: An Entity Reference name cannot be null or empty
+	at org.xwiki.model.reference.EntityReference.setName(EntityReference.java:185)
+	at org.xwiki.model.reference.EntityReference.<init>(EntityReference.java:153)
+	at org.xwiki.model.reference.AttachmentReference.<init>(AttachmentReference.java:68)
+	at com.xpn.xwiki.doc.XWikiAttachment.getReference(XWikiAttachment.java:156)
+	at com.xpn.xwiki.doc.XWikiAttachment.extractMimeType(XWikiAttachment.java:980)
+	at com.xpn.xwiki.doc.XWikiAttachment.getMimeType(XWikiAttachment.java:923)
+	at com.xpn.xwiki.web.DownloadAction.setCommonHeaders(DownloadAction.java:427)
+	at com.xpn.xwiki.web.DownloadAction.sendContent(DownloadAction.java:291)
+	at com.xpn.xwiki.web.DownloadAction.render(DownloadAction.java:174)
+	at com.xpn.xwiki.web.XWikiAction.execute(XWikiAction.java:417)
+	

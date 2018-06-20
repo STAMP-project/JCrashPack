@@ -1,0 +1,3 @@
+java.io.NotSerializableException: org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$2
+	at org.mockitoutil.SimpleSerializationUtil.serializeMock(SimpleSerializationUtil.java:34)
+	at org.mockitoutil.SimpleSerializationUtil.serializeAndBack(SimpleSerializationUtil.java:16)

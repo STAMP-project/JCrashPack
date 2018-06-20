@@ -1,0 +1,12 @@
+java.lang.IllegalArgumentException: An Entity Reference name cannot be null or empty
+	at org.xwiki.model.reference.EntityReference.setName(EntityReference.java:186)
+	at org.xwiki.model.reference.EntityReference.<init>(EntityReference.java:154)
+	at org.xwiki.model.reference.AttachmentReference.<init>(AttachmentReference.java:68)
+	at com.xpn.xwiki.doc.XWikiAttachment.getReference(XWikiAttachment.java:156)
+	at org.xwiki.search.solr.internal.reference.DocumentSolrReferenceResolver.addAttachmentsReferences(DocumentSolrReferenceResolver.java:139)
+	at org.xwiki.search.solr.internal.reference.DocumentSolrReferenceResolver.getReferences(DocumentSolrReferenceResolver.java:121)
+	at org.xwiki.search.solr.internal.reference.DefaultSolrReferenceResolver.getReferences(DefaultSolrReferenceResolver.java:163)
+	at org.xwiki.search.solr.internal.DefaultSolrIndexer$Resolver.runInternal(DefaultSolrIndexer.java:213)
+	at com.xpn.xwiki.util.AbstractXWikiRunnable.run(AbstractXWikiRunnable.java:131)
+	at java.lang.Thread.run(Thread.java:744)
+	

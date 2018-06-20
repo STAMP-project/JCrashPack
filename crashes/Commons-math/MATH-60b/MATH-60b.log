@@ -1,0 +1,6 @@
+org.apache.commons.math.ConvergenceException: Divergence de fraction continue à NaN pour la valeur ∞
+	at org.apache.commons.math.util.ContinuedFraction.evaluate(ContinuedFraction.java:186)
+	at org.apache.commons.math.special.Gamma.regularizedGammaQ(Gamma.java:266)
+	at org.apache.commons.math.special.Gamma.regularizedGammaP(Gamma.java:173)
+	at org.apache.commons.math.special.Erf.erf(Erf.java:51)
+	at org.apache.commons.math.distribution.NormalDistributionImpl.cumulativeProbability(NormalDistributionImpl.java:127)

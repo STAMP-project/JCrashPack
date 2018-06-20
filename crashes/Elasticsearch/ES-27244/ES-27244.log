@@ -1,0 +1,6 @@
+java.lang.IllegalArgumentException:
+    at org.elasticsearch.http.netty4.Netty4HttpChannel.setHeaderField(Netty4HttpChannel.java:160)
+    at org.elasticsearch.http.netty4.Netty4HttpChannel.setHeaderField(Netty4HttpChannel.java:155)
+    at org.elasticsearch.http.netty4.Netty4HttpChannel.addCustomHeaders(Netty4HttpChannel.java:181)
+    at org.elasticsearch.http.netty4.Netty4HttpChannel.sendResponse(Netty4HttpChannel.java:114)
+    at org.elasticsearch.rest.RestController$ResourceHandlingHttpChannel.sendResponse(RestController.java:445)

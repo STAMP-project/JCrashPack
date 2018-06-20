@@ -1,0 +1,6 @@
+java.lang.NullPointerException
+	at com.xpn.xwiki.store.XWikiHibernateRecycleBinStore.resolveDeletedDocumentContent(XWikiHibernateRecycleBinStore.java:160)
+	at com.xpn.xwiki.store.XWikiHibernateRecycleBinStore.access$200(XWikiHibernateRecycleBinStore.java:57)
+	at com.xpn.xwiki.store.XWikiHibernateRecycleBinStore$2.doInHibernate(XWikiHibernateRecycleBinStore.java:260)
+	at com.xpn.xwiki.store.XWikiHibernateRecycleBinStore$2.doInHibernate(XWikiHibernateRecycleBinStore.java:252)
+	at com.xpn.xwiki.store.XWikiHibernateBaseStore.execute(XWikiHibernateBaseStore.java:1334)

@@ -1,0 +1,8 @@
+org.xwiki.mail.MailStoreException: Failed to load mail statuses matching the filter [{id=wf6IcqpIFAxhHxKKHDZ37sZ5zoE=}] from the database.
+        at org.xwiki.mail.internal.DatabaseMailStatusStore.load(DatabaseMailStatusStore.java:142)
+        at org.xwiki.mail.internal.DatabaseMailStatusStore.load(DatabaseMailStatusStore.java:98)
+        at org.xwiki.mail.internal.DatabaseMailListener.retrieveExistingMailStatus(DatabaseMailListener.java:193)
+        at org.xwiki.mail.internal.DatabaseMailListener.onSendMessageSuccess(DatabaseMailListener.java:126)
+        at org.xwiki.mail.internal.thread.SendMailRunnable.sendMail(SendMailRunnable.java:184)
+        at org.xwiki.mail.internal.thread.SendMailRunnable.runInternal(SendMailRunnable.java:117)
+        at org.xwiki.mail.internal.thread.SendMailRunnable.run(SendMailRunnable.java:78)

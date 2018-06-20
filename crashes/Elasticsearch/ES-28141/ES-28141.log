@@ -1,0 +1,4 @@
+java.nio.file.AccessDeniedException:
+        at org.elasticsearch.bootstrap.Security.ensureDirectoryExists(Security.java:492)
+        at org.elasticsearch.bootstrap.Security.addPath(Security.java:448)
+        

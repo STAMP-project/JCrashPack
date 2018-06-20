@@ -1,0 +1,17 @@
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at org.apache.lucene.search.vectorhighlight.FieldQuery.getKey(FieldQuery.java:293)
+	at org.apache.lucene.search.vectorhighlight.FieldQuery.getTermSet(FieldQuery.java:348)
+	at org.apache.lucene.search.vectorhighlight.FieldQuery.saveTerms(FieldQuery.java:329)
+	at org.apache.lucene.search.vectorhighlight.FieldQuery.<init>(FieldQuery.java:69)
+	at org.apache.lucene.search.vectorhighlight.CustomFieldQuery.<init>(CustomFieldQuery.java:56)
+	at org.elasticsearch.search.fetch.subphase.highlight.FastVectorHighlighter.highlight(FastVectorHighlighter.java:91)
+	at org.elasticsearch.search.fetch.subphase.highlight.HighlightPhase.hitExecute(HighlightPhase.java:124)
+	at org.elasticsearch.search.fetch.FetchPhase.execute(FetchPhase.java:163)
+	at org.elasticsearch.search.SearchService.executeFetchPhase(SearchService.java:294)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:271)
+	at org.elasticsearch.action.search.SearchTransportService$6.messageReceived(SearchTransportService.java:331)
+	at org.elasticsearch.action.search.SearchTransportService$6.messageReceived(SearchTransportService.java:328)
+	at org.elasticsearch.transport.RequestHandlerRegistry.processMessageReceived(RequestHandlerRegistry.java:69)
+	at org.elasticsearch.transport.TransportService$7.doRun(TransportService.java:618) ~[elasticsearch-5.3.0.jar:5.3.0]
+	at org.elasticsearch.common.util.concurrent.ThreadContext$ContextPreservingAbstractRunnable.doRun(ThreadContext.java:613) ~[elasticsearch-5.3.0.jar:5.3.0]
+	at org.elasticsearch.common.util.concurrent.AbstractRunnable.run(AbstractRunnable.java:37)
