@@ -52,8 +52,8 @@ java.lang.NullPointerException: null
   * Edit `jcrashpack.json`.
   * Under `crashes`, add an entry with `<issue-name>` as the key.
   * Set `application` value to `<project>`.
-  * If the information is available, set the `buggy_frame` value to the frame in the stack trace where the bug is, the commit where is was fixed (`fixed_commit`), the URL to the `issue` in an issue tracker, and the version fo the project for which the issue has been fixed (`version_fixed`).
-  * Set the `id` value to `<issue-name>`
+  * If the information is available, set the `buggy_frame` value to the frame in the stack trace where the bug is, the commit where is was fixed (`fixed_commit`), the URL to the `issue` in an issue tracker, and the version of the project for which the issue has been fixed (`version_fixed`).
+  * Set the `id` value to `<issue-name>`.
   * Provide a regular expression for `target_frames` designing the target frames that have to be considered in the stack trace for crash replication. For instance, `.*xwiki.*` allows to consider only target frames in the stack trace where `xwiki` appears. This allows to discard frames from other projects and JDK API.
   * Set the `version` value to `<version>`.
 
