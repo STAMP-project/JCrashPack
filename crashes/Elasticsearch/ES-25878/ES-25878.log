@@ -9,7 +9,7 @@ java.lang.NullPointerException:
     at org.elasticsearch.action.support.master.TransportMasterNodeAction$AsyncSingleAction$3.handleException(TransportMasterNodeAction.java:185)
     at org.elasticsearch.transport.TransportService.handleException(TransportService.java:1067)
     at org.elasticsearch.transport.TcpTransport.lambda(TcpTransport.java:1467)
-    at org.elasticsearch.common.util.concurrent.EsExecutors.execute(EsExecutors.java:110)
+    at org.elasticsearch.common.util.concurrent.EsExecutors$1.execute(EsExecutors.java:110)
     at org.elasticsearch.transport.TcpTransport.handleException(TcpTransport.java:1465)
     at org.elasticsearch.transport.TcpTransport.handlerResponseError(TcpTransport.java:1457)
     at org.elasticsearch.transport.TcpTransport.messageReceived(TcpTransport.java:1401)
