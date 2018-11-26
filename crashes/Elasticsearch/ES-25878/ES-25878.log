@@ -6,7 +6,7 @@ java.lang.NullPointerException:
     at org.elasticsearch.rest.BytesRestResponse.<init>(BytesRestResponse.java:91)
     at org.elasticsearch.rest.action.RestActionListener.onFailure(RestActionListener.java:58)
     at org.elasticsearch.action.support.TransportAction.onFailure(TransportAction.java:94)
-    at org.elasticsearch.action.support.master.TransportMasterNodeAction.handleException(TransportMasterNodeAction.java:185)
+    at org.elasticsearch.action.support.master.TransportMasterNodeAction$AsyncSingleAction$3.handleException(TransportMasterNodeAction.java:185)
     at org.elasticsearch.transport.TransportService.handleException(TransportService.java:1067)
     at org.elasticsearch.transport.TcpTransport.lambda(TcpTransport.java:1467)
     at org.elasticsearch.common.util.concurrent.EsExecutors.execute(EsExecutors.java:110)
