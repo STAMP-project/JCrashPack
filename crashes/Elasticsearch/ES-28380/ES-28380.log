@@ -1,4 +1,4 @@
-ParsingException[Failed to parse object:
+org.elasticsearch.common.ParsingException:
 	at org.elasticsearch.common.xcontent.XContentParserUtils.throwUnknownToken(XContentParserUtils.java:67)
 	at org.elasticsearch.common.xcontent.XContentParserUtils.parseStoredFieldsValue(XContentParserUtils.java:108)
 	at org.elasticsearch.common.document.DocumentField.fromXContent(DocumentField.java:142)
