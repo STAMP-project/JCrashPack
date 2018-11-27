@@ -1,9 +1,4 @@
-java.net.URISyntaxException: Illegal character in path at index 57: /testindex/testtype/id with_empty_space
-	at java.net.URI$Parser.fail(URI.java:2848) ~[?:1.8.0_121]
-	at java.net.URI$Parser.checkChars(URI.java:3021) ~[?:1.8.0_121]
-	at java.net.URI$Parser.parseHierarchical(URI.java:3105) ~[?:1.8.0_121]
-	at java.net.URI$Parser.parse(URI.java:3063) ~[?:1.8.0_121]
-	at java.net.URI.<init>(URI.java:588) ~[?:1.8.0_121]
+java.net.URISyntaxException:
 	at org.elasticsearch.action.DocWriteResponse.getLocation(DocWriteResponse.java:201)
 	at org.elasticsearch.rest.action.document.RestIndexAction.lambda$null$0(RestIndexAction.java:96)
 	at org.elasticsearch.rest.action.RestStatusToXContentListener.buildResponse(RestStatusToXContentListener.java:65)
