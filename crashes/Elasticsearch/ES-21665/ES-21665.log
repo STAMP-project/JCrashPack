@@ -1,7 +1,4 @@
-java.lang.NumberFormatException: For input string: "e"
-	at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
-	at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
-	at java.lang.Double.parseDouble(Double.java:538)
+java.lang.NumberFormatException:
 	at org.elasticsearch.index.mapper.NumberFieldMapper$NumberType$3.parse(NumberFieldMapper.java:350)
 	at org.elasticsearch.index.mapper.NumberFieldMapper$NumberType$3.termQuery(NumberFieldMapper.java:360)
 	at org.elasticsearch.index.mapper.NumberFieldMapper$NumberFieldType.termQuery(NumberFieldMapper.java:801)
