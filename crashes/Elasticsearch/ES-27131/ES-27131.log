@@ -1,5 +1,4 @@
 java.lang.IndexOutOfBoundsException: 2147483647
-	at java.nio.DirectByteBuffer.get(DirectByteBuffer.java:253)
 	at org.apache.lucene.store.ByteBufferGuard.getByte(ByteBufferGuard.java:118)
 	at org.apache.lucene.store.ByteBufferIndexInput$SingleBufferImpl.readByte(ByteBufferIndexInput.java:385)
 	at org.apache.lucene.codecs.lucene70.Lucene70NormsProducer$2.longValue(Lucene70NormsProducer.java:218)
