@@ -1,5 +1,4 @@
- java.lang.StringIndexOutOfBoundsException: String index out of range: -16
-    at java.lang.String.substring(Unknown Source)
+ java.lang.StringIndexOutOfBoundsException:
     at org.apache.lucene.search.vectorhighlight.BaseFragmentsBuilder.makeFragment(BaseFragmentsBuilder.java:179)
     at org.elasticsearch.search.highlight.vectorhighlight.SimpleFragmentsBuilder.makeFragment(SimpleFragmentsBuilder.java:43)
     at org.apache.lucene.search.vectorhighlight.BaseFragmentsBuilder.createFragments(BaseFragmentsBuilder.java:144)
