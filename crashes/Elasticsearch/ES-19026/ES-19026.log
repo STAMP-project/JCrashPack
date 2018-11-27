@@ -1,12 +1,4 @@
-Exception in thread "main" java.lang.IllegalStateException: Unable to initialize modules. Likely root cause: java.nio.file.NoSuchFileException: /usr/share/elasticsearch/modules/ingest-grok/plugin-descriptor.properties
-	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
-	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
-	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
-	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
-	at java.nio.file.Files.newByteChannel(Files.java:361)
-	at java.nio.file.Files.newByteChannel(Files.java:407)
-	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:384)
-	at java.nio.file.Files.newInputStream(Files.java:152)
+Exception in thread "main" java.lang.IllegalStateException:
 	at org.elasticsearch.plugins.PluginInfo.readFromProperties(PluginInfo.java:74)
 	at org.elasticsearch.plugins.PluginsService.getModuleBundles(PluginsService.java:327)
 	at org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:131)
