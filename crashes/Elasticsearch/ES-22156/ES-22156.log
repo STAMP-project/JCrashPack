@@ -21,7 +21,6 @@ java.lang.SecurityException:
     at org.elasticsearch.repositories.hdfs.HdfsBlobContainer$6.run(HdfsBlobContainer.java:145)
     at org.elasticsearch.repositories.hdfs.HdfsBlobContainer$6.run(HdfsBlobContainer.java:142)
     at org.elasticsearch.repositories.hdfs.HdfsBlobStore$4.run(HdfsBlobStore.java:136)
-    at java.security.AccessController.doPrivileged(AccessController.java:713)
     at org.elasticsearch.repositories.hdfs.HdfsBlobStore.execute(HdfsBlobStore.java:133)
     at org.elasticsearch.repositories.hdfs.HdfsBlobContainer.listBlobsByPrefix(HdfsBlobContainer.java:142)
     at org.elasticsearch.repositories.blobstore.BlobStoreRepository.listBlobsToGetLatestIndexId(BlobStoreRepository.java:849)
