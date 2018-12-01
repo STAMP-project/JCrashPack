@@ -1,0 +1,15 @@
+java.lang.NullPointerException
+	at org.elasticsearch.search.fetch.subphase.FetchSourceSubPhase.getNestedSource(FetchSourceSubPhase.java:83)
+	at org.elasticsearch.search.fetch.subphase.FetchSourceSubPhase.hitExecute(FetchSourceSubPhase.java:58)
+	at org.elasticsearch.search.fetch.FetchPhase.execute(FetchPhase.java:162)
+	at org.elasticsearch.search.aggregations.metrics.tophits.TopHitsAggregator.buildAggregation(TopHitsAggregator.java:168)
+	at org.elasticsearch.search.aggregations.bucket.BucketsAggregator.bucketAggregations(BucketsAggregator.java:128)
+	at org.elasticsearch.search.aggregations.bucket.nested.NestedAggregator.buildAggregation(NestedAggregator.java:127)
+	at org.elasticsearch.search.aggregations.bucket.BucketsAggregator.bucketAggregations(BucketsAggregator.java:128)
+	at org.elasticsearch.search.aggregations.bucket.nested.NestedAggregator.buildAggregation(NestedAggregator.java:127)
+	at org.elasticsearch.search.aggregations.AggregationPhase.execute(AggregationPhase.java:130)
+	at org.elasticsearch.search.query.QueryPhase.execute(QueryPhase.java:113)
+	at org.elasticsearch.search.SearchService.loadOrExecuteQueryPhase(SearchService.java:324)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:357)
+	at org.elasticsearch.search.SearchService$2.onResponse(SearchService.java:333)
+  
