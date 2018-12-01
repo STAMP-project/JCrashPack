@@ -1,4 +1,4 @@
-Exception in thread "main" java.lang.IllegalStateException:
+java.lang.IllegalStateException:
 	at org.elasticsearch.plugins.PluginInfo.readFromProperties(PluginInfo.java:74)
 	at org.elasticsearch.plugins.PluginsService.getModuleBundles(PluginsService.java:327)
 	at org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:131)
