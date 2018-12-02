@@ -1,8 +1,6 @@
 java.lang.NullPointerException
 	at org.xwiki.rest.internal.DomainObjectFactory.createJobStatus(DomainObjectFactory.java:294)
 	at org.xwiki.rest.internal.resources.job.JobStatusResourceImpl.getJobStatus(JobStatusResourceImpl.java:42)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:606)
 	at org.restlet.ext.jaxrs.internal.wrappers.AbstractMethodWrapper.internalInvoke(AbstractMethodWrapper.java:171)
 	at org.restlet.ext.jaxrs.internal.wrappers.ResourceMethod.invoke(ResourceMethod.java:291)
 	at org.restlet.ext.jaxrs.JaxRsRestlet.invokeMethod(JaxRsRestlet.java:1043)
