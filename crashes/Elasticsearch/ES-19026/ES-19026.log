@@ -1,6 +1,6 @@
 java.lang.IllegalStateException:
 	at org.elasticsearch.plugins.PluginInfo.readFromProperties(PluginInfo.java:74)
-	at org.elasticsearch.plugins.PluginsService.getModuleBundles(PluginsService.java:339)
+	at org.elasticsearch.plugins.PluginsService.getModuleBundles(PluginsService.java:304)
 	at org.elasticsearch.plugins.PluginsService.<init>(PluginsService.java:117)
 	at org.elasticsearch.node.Node.<init>(Node.java:200)
 	at org.elasticsearch.node.Node.<init>(Node.java:162)
