@@ -57,5 +57,19 @@ java.lang.NullPointerException: null
   * Provide a regular expression for `target_frames` designing the target frames that have to be considered in the stack trace for crash replication. For instance, `.*xwiki.*` allows to consider only target frames in the stack trace where `xwiki` appears. This allows to discard frames from other projects and JDK API.
   * Set the `version` value to `<version>`.
 
-  
-  
+## Reference
+
+The methodology followed to build JCrashPack has been described in Soltani, M., Derakhshanfar, P., Devroey, X. and van Deursen, A. (2020). [A benchmark-based evaluation of search-based crash reproduction](https://doi.org/10.1007/s10664-019-09762-1). In *Empirical Software Engineering*. 25, 1 (Jan. 2020), pp. 96–138. ([open access](https://doi.org/10.1007/s10664-019-09762-1)). When using JCrashPack, please use the following reference:
+
+```bibtex
+@article{Derakhshanfar2020,
+  author    = {Soltani, Mozhan and Derakhshanfar, Pouria and Devroey, Xavier and van Deursen, Arie},
+  title     = {A benchmark-based evaluation of search-based crash reproduction},
+  journal   = {Empirical Software Engineering},
+  volume    = {25},
+  number    = {1},
+  pages     = {96--138},
+  year      = {2020},
+  doi       = {10.1007/s10664-019-09762-1}
+}
+```
